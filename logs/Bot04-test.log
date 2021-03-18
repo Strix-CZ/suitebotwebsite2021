@@ -1,9 +1,9 @@
 
 Testing UPTIME request...
 request: UPTIME
-response: 3
+response: 2
 request: UPTIME
-response: 4
+response: 3
 
 Testing EXIT request...
 request: EXIT
