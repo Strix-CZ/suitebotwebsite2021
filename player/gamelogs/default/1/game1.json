@@ -1,0 +1,47 @@
+{
+  "gamePlan": {
+    "width": 20,
+    "height": 10,
+    "startingPositions": [
+      {
+        "x": 5,
+        "y": 5
+      },
+      {
+        "x": 15,
+        "y": 5
+      }
+    ],
+    "walls": []
+  },
+  "players": [
+    {
+      "id": 1,
+      "name": "belzebot1"
+    },
+    {
+      "id": 2,
+      "name": "belzebot2"
+    }
+  ],
+  "rounds": [
+    {
+      "moves": [],
+      "crashPositions": [
+        {
+          "x": 5,
+          "y": 5
+        },
+        {
+          "x": 15,
+          "y": 5
+        }
+      ],
+      "killedPlayerIds": [
+        1,
+        2
+      ],
+      "idsOfPlayersKilledAfterFirstStep": []
+    }
+  ]
+}
