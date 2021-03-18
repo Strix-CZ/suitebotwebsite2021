@@ -1,0 +1,80 @@
+a {
+	color: white;
+	text-decoration: none;
+}
+
+body {
+    font-family: monospace;
+    color: #999;
+    background-color: black;
+}
+
+#game_header,
+#gameplan_and_playerlist,
+#game_navigation {
+   width: 1000px;
+   margin: 0 auto;
+}
+
+#gameplan_container {
+   float: left;
+}
+
+#playerlist_container {
+   float: right;
+}
+
+#game_header {
+	padding-bottom: 5px;
+}
+
+#game_navigation {
+	padding-top: 1px;
+	clear: both;
+}
+
+#gameplan_and_playerlist table {
+    border-spacing: 0;
+}
+
+#gameplan_and_playerlist td,
+#gameplan_and_playerlist th {
+    height: 20px;
+    border: 1px solid #444;
+    border-radius: 4px;
+    font-weight: bold;
+}
+
+#gameplan_container {
+	font-family: sans-serif;
+	text-align: center;
+}
+
+#gameplan_container td,
+#playerlist_container td.player_color {
+    width: 20px;
+}
+
+.wall {
+    background-color: #444;
+}
+
+.killed {
+    text-decoration: line-through;
+}
+
+#playerlist li {
+    font-weight: bold;
+}
+
+.player_name {
+	text-align: left;
+}
+
+.player_score {
+	text-align: right;
+}
+
+#debug {
+	display: none;
+}

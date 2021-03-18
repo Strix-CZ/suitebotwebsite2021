@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8" />
+    <title>Level Player</title>
+    <link rel="stylesheet" href="css/gameplayer.css" />
+    <link rel="stylesheet" href="css/levelplayer.css" />
+    <script type="text/javascript" src="js/jquery-2.1.4.min.js"></script>
+    <script type="text/javascript" src="js/geturlparameter.js"></script>
+    <script type="text/javascript" src="js/gameplayer.js"></script>
+    <script type="text/javascript" src="js/levelplayer.js"></script>
+</head>
+<body onload="levelplayer.initialize()">
+    <audio id="crash_sound" src="sfx/crash.wav" preload="auto"></audio>
+    <audio id="game_music" src="sfx/game_music.ogg" preload="auto"></audio>
+
+    <div id="game_header">
+        Level <span id="level_number_container">1</span> &gt;
+        Game <span id="game_number_container">1</span> &gt;
+        <span id="round_container"></span>
+    </div>
+
+    <div id="gameplan_and_playerlist">
+        <div id="game_message"></div>
+        <div id="gameplan_container"></div>
+        <div id="playerlist_container"></div>
+    </div>
+
+    <div id="game_navigation">
+        <p>
+            <a href="javascript: levelplayer.play_level()">START</a>
+            &nbsp;
+            <a href="javascript: gameplayer.reset_game()">|&lt;</a>
+            &nbsp;
+            <a href="javascript: gameplayer.undo_rounds(10)">&lt;&lt;</a>
+            &nbsp;
+            <a href="javascript: gameplayer.undo_round()">&lt;</a>
+            &nbsp;
+            <a href="javascript: gameplayer.play_round()">&gt;</a>
+            &nbsp;
+            <a href="javascript: gameplayer.play_rounds(10)">&gt;&gt;</a>
+            &nbsp;
+            <a href="javascript: gameplayer.play_all_rounds()">&gt;|</a>
+            &nbsp;
+            <a href="javascript: gameplayer.autoreplay.play_or_pause()">PLAY/PAUSE</a>
+        </p>
+    </div>
+
+    <pre id="debug"></pre>
+</body>
+</html>

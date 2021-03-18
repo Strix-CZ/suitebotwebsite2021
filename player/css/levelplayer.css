@@ -1,0 +1,17 @@
+#gameplan_and_playerlist {
+    position: relative;
+}
+
+#game_message {
+    font-size: 500%;
+    position: absolute;
+    top: 200px;
+    left: 180px;
+    width: 370px;
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+    z-index: 10;
+    background-color: rgba(0, 0, 0, 0.7);
+    display: none;
+}

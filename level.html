@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Tron Melee: Level</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="robots" content="index, follow">
+
+        <!-- Override CSS file - add your own CSS rules -->
+        <link rel="stylesheet" href="css/styles.css">
+
+        <script type="text/javascript" src="js/jquery-2.1.4.min.js"></script>
+        <script type="text/javascript" src="js/geturlparameter.js"></script>
+        <script type="text/javascript" src="js/levelresults.js"></script>
+    </head>
+    <body onload="levelresults.generate()">
+        <div class="container">
+            <div class="header">
+                <a href="index.html"><img src="img/tronmelee_logo.png" alt="" /></a>
+            </div>
+            <div class="nav-bar">
+                <ul class="nav">
+                    <li><a href="index.html">Standings</a></li>
+                    <li><a href="level.html?id=1">Level 1</a></li>
+                    <li><a href="level.html?id=2">Level 2</a></li>
+                    <li><a href="level.html?id=3">Level 3</a></li>
+                    <li><a href="level.html?id=4">Level 4</a></li>
+                    <li><a href="level.html?id=5">Level 5</a></li>
+                    <li><a href="level.html?id=6">Level 6</a></li>
+                    <li><a href="level.html?id=7">Level 7</a></li>
+                </ul>
+            </div>
+            <div class="content">
+                <div class="main">
+
+                    <h1>Level</h1>
+
+                    <p id="level-replay-link">Replay level</p>
+
+                    <table id="level-results" class="table table-striped">
+                        <thead>
+                            <tr>
+                                <th></th>
+                                <th></th>
+                                <th id="game-1" class="center" colspan="2">Game 1</th>
+                                <th id="game-2" class="center" colspan="2">Game 2</th>
+                                <th id="game-3" class="center" colspan="2">Game 3</th>
+                                <th></th>
+                            </tr>
+                            <tr>
+                                <th>#</th>
+                                <th>Team/Bot</th>
+                                <th class="center">Moves</th>
+                                <th class="center">Score</th>
+                                <th class="center">Moves</th>
+                                <th class="center">Score</th>
+                                <th class="center">Moves</th>
+                                <th class="center">Score</th>
+                                <th class="center">Total</th>
+                            </tr>
+                        </thead>
+                    </table>
+
+                    <pre id="debug"></pre>
+                </div>
+            </div>
+            <div class="footer">
+                web template by <a href="http://css.maxdesign.com.au/">maxdesign</a>
+            </div>
+        </div>
+    </body>
+</html>
