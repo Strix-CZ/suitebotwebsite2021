@@ -1,0 +1,13 @@
+
+Testing UPTIME request...
+request: UPTIME
+response: 3
+request: UPTIME
+response: 4
+
+Testing EXIT request...
+request: EXIT
+response: null
+Bot server shut down successfully.
+
+SUCCESS

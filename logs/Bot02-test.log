@@ -1,13 +1,3 @@
+failed to start the bot server
 
-Testing UPTIME request...
-request: UPTIME
-response: 0
-request: UPTIME
-response: 1
-
-Testing EXIT request...
-request: EXIT
-response: null
-Bot server shut down successfully.
-
-SUCCESS
+FAILED
