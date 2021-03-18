@@ -16,12 +16,12 @@
   },
   "players": [
     {
-      "id": 2,
-      "name": "belzebot2"
-    },
-    {
       "id": 1,
       "name": "belzebot1"
+    },
+    {
+      "id": 2,
+      "name": "belzebot2"
     }
   ],
   "rounds": [
