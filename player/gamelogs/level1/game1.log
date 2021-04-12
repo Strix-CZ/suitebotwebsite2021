@@ -1,0 +1,1105 @@
+Round 1
+4 | L | 54 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 63 ms  
+2 | X | 58 ms  
+1 | D | 241 ms  
+Round 2
+4 | L | 0 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 24 ms  (dead)
+2 | X | 12 ms  (dead)
+1 | D | 172 ms  
+Round 3
+4 | L | 22 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 6 ms  (dead)
+2 | X | 5 ms  (dead)
+1 | R | 158 ms  
+Round 4
+4 | L | 3 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 8 ms  (dead)
+2 | X | 4 ms  (dead)
+1 | U | 165 ms  
+Round 5
+4 | L | 4 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 7 ms  (dead)
+1 | R | 165 ms  
+Round 6
+4 | U | 2 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 6 ms  (dead)
+2 | X | 3 ms  (dead)
+1 | D | 164 ms  
+Round 7
+4 | R | 3 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 6 ms  (dead)
+2 | X | 4 ms  (dead)
+1 | D | 163 ms  
+Round 8
+4 | R | 2 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 5 ms  (dead)
+2 | X | 2 ms  (dead)
+1 | R | 164 ms  
+Round 9
+4 | R | 2 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 5 ms  (dead)
+2 | X | 2 ms  (dead)
+1 | U | 164 ms  
+Round 10
+4 | R | 2 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 28 ms  (dead)
+2 | X | 5 ms  (dead)
+1 | U | 164 ms  
+Round 11
+4 | R | 1 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 5 ms  (dead)
+2 | X | 2 ms  (dead)
+1 | U | 163 ms  
+Round 12
+4 | R | 4 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 6 ms  (dead)
+2 | X | 2 ms  (dead)
+1 | L | 163 ms  
+Round 13
+4 | R | 2 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 4 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | L | 163 ms  
+Round 14
+4 | R | 2 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 4 ms  (dead)
+2 | X | 2 ms  (dead)
+1 | U | 2 ms  
+Round 15
+4 | R | 3 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 1 ms  (dead)
+2 | X | 3 ms  (dead)
+1 | R | 163 ms  
+Round 16
+4 | R | 3 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 5 ms  (dead)
+2 | X | 2 ms  (dead)
+1 | R | 163 ms  
+Round 17
+4 | R | 0 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 4 ms  (dead)
+2 | X | 2 ms  (dead)
+1 | R | 163 ms  
+Round 18
+4 | R | 2 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 2 ms  (dead)
+1 | D | 164 ms  
+Round 19
+4 | R | 2 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 28 ms  (dead)
+2 | X | 2 ms  (dead)
+1 | D | 163 ms  
+Round 20
+4 | R | 2 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 2 ms  (dead)
+1 | D | 164 ms  
+Round 21
+4 | R | 2 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 4 ms  (dead)
+2 | X | 2 ms  (dead)
+1 | R | 163 ms  
+Round 22
+4 | R | 2 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 4 ms  (dead)
+2 | X | 2 ms  (dead)
+1 | U | 162 ms  
+Round 23
+4 | R | 2 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 4 ms  (dead)
+2 | X | 2 ms  (dead)
+1 | U | 162 ms  
+Round 24
+4 | R | 2 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 4 ms  (dead)
+2 | X | 2 ms  (dead)
+1 | U | 163 ms  
+Round 25
+4 | R | 2 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 4 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | U | 163 ms  
+Round 26
+4 | U | 2 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 5 ms  (dead)
+2 | X | 2 ms  (dead)
+1 | R | 164 ms  
+Round 27
+4 | L | 2 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 17 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | D | 163 ms  
+Round 28
+4 | L | 2 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 5 ms  (dead)
+2 | X | 2 ms  (dead)
+1 | R | 162 ms  
+Round 29
+4 | L | 2 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 2 ms  (dead)
+2 | X | 4 ms  (dead)
+1 | U | 164 ms  
+Round 30
+4 | L | 1 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | R | 162 ms  
+Round 31
+4 | L | 2 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 4 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | D | 162 ms  
+Round 32
+4 | L | 2 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 4 ms  (dead)
+2 | X | 4 ms  (dead)
+1 | R | 163 ms  
+Round 33
+4 | L | 1 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 4 ms  (dead)
+2 | X | 2 ms  (dead)
+1 | U | 163 ms  
+Round 34
+4 | L | 1 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 18 ms  (dead)
+2 | X | 2 ms  (dead)
+1 | R | 162 ms  
+Round 35
+4 | L | 1 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 4 ms  (dead)
+2 | X | 5 ms  (dead)
+1 | D | 163 ms  
+Round 36
+4 | L | 2 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | R | 1 ms  
+Round 37
+4 | L | 2 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 1 ms  (dead)
+2 | X | 2 ms  (dead)
+1 | U | 163 ms  
+Round 38
+4 | L | 2 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 4 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | R | 163 ms  
+Round 39
+4 | L | 2 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 4 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | U | 162 ms  
+Round 40
+4 | L | 6 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 31 ms  (dead)
+2 | X | 3 ms  (dead)
+1 | L | 162 ms  
+Round 41
+4 | L | 3 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 13 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | L | 162 ms  
+Round 42
+4 | L | 15 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 4 ms  (dead)
+2 | X | 4 ms  (dead)
+1 | U | 162 ms  
+Round 43
+4 | L | 2 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 4 ms  (dead)
+2 | X | 2 ms  (dead)
+1 | R | 163 ms  
+Round 44
+4 | L | 13 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 4 ms  (dead)
+2 | X | 2 ms  (dead)
+1 | R | 163 ms  
+Round 45
+4 | L | 4 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | R | 162 ms  
+Round 46
+4 | U | 6 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 4 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | D | 162 ms  
+Round 47
+4 | R | 1 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 4 ms  (dead)
+2 | X | 15 ms  (dead)
+1 | D | 162 ms  
+Round 48
+4 | R | 13 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 4 ms  (dead)
+2 | X | 5 ms  (dead)
+1 | R | 162 ms  
+Round 49
+4 | R | 2 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 4 ms  (dead)
+2 | X | 11 ms  (dead)
+1 | U | 163 ms  
+Round 50
+4 | R | 5 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 4 ms  (dead)
+2 | X | 4 ms  (dead)
+1 | U | 162 ms  
+Round 51
+4 | R | 7 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 4 ms  (dead)
+2 | X | 2 ms  (dead)
+1 | R | 162 ms  
+Round 52
+4 | R | 13 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 4 ms  (dead)
+2 | X | 2 ms  (dead)
+1 | D | 162 ms  
+Round 53
+4 | R | 2 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | D | 162 ms  
+Round 54
+4 | R | 2 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | R | 161 ms  
+Round 55
+4 | R | 4 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 4 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | U | 162 ms  
+Round 56
+4 | R | 2 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | U | 162 ms  
+Round 57
+4 | R | 1 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 3 ms  (dead)
+1 | U | 162 ms  
+Round 58
+4 | R | 3 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | L | 162 ms  
+Round 59
+4 | R | 1 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 4 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | L | 162 ms  
+Round 60
+4 | R | 17 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 17 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | L | 163 ms  
+Round 61
+4 | R | 1 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 2 ms  (dead)
+1 | L | 162 ms  
+Round 62
+4 | R | 2 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | U | 162 ms  
+Round 63
+4 | R | 13 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 4 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | R | 162 ms  
+Round 64
+4 | R | 1 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 18 ms  (dead)
+2 | X | 3 ms  (dead)
+1 | R | 163 ms  
+Round 65
+4 | R | 4 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 4 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | R | 161 ms  
+Round 66
+4 | U | 1 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | R | 162 ms  
+Round 67
+4 | L | 2 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 4 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | R | 162 ms  
+Round 68
+4 | L | 1 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | D | 162 ms  
+Round 69
+4 | L | 13 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | D | 162 ms  
+Round 70
+4 | L | 3 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 8 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | D | 163 ms  
+Round 71
+4 | L | 17 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 6 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | D | 162 ms  
+Round 72
+4 | L | 15 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 7 ms  (dead)
+2 | X | 14 ms  (dead)
+1 | R | 163 ms  
+Round 73
+4 | L | 9 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 4 ms  (dead)
+2 | X | 9 ms  (dead)
+1 | D | 162 ms  
+Round 74
+4 | L | 12 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | L | 163 ms  
+Round 75
+4 | L | 2 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | L | 162 ms  
+Round 76
+4 | L | 4 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 4 ms  (dead)
+2 | X | 2 ms  (dead)
+1 | L | 161 ms  
+Round 77
+4 | L | 8 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 5 ms  (dead)
+2 | X | 2 ms  (dead)
+1 | L | 162 ms  
+Round 78
+4 | L | 2 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 2 ms  (dead)
+1 | L | 163 ms  
+Round 79
+4 | L | 1 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | D | 162 ms  
+Round 80
+4 | L | 2 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | R | 162 ms  
+Round 81
+4 | L | 1 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | R | 162 ms  
+Round 82
+4 | L | 11 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | R | 162 ms  
+Round 83
+4 | L | 14 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | R | 162 ms  
+Round 84
+4 | L | 13 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 3 ms  (dead)
+1 | R | 162 ms  
+Round 85
+4 | L | 1 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | D | 162 ms  
+Round 86
+4 | U | 8 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 15 ms  (dead)
+2 | X | 2 ms  (dead)
+1 | D | 162 ms  
+Round 87
+4 | R | 1 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 4 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | R | 162 ms  
+Round 88
+4 | R | 1 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | U | 162 ms  
+Round 89
+4 | R | 1 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 2 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | U | 0 ms  
+Round 90
+4 | R | 0 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | U | 0 ms  
+Round 91
+4 | R | 1 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | R | 162 ms  
+Round 92
+4 | R | 1 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | U | 0 ms  
+Round 93
+4 | R | 8 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 18 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | R | 162 ms  
+Round 94
+4 | R | 3 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 4 ms  (dead)
+2 | X | 7 ms  (dead)
+1 | R | 161 ms  
+Round 95
+4 | R | 1 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 4 ms  (dead)
+2 | X | 2 ms  (dead)
+1 | R | 162 ms  
+Round 96
+4 | R | 6 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 4 ms  (dead)
+2 | X | 4 ms  (dead)
+1 | R | 162 ms  
+Round 97
+4 | R | 1 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | U | 1 ms  
+Round 98
+4 | R | 13 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 4 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | R | 162 ms  
+Round 99
+4 | R | 9 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 4 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | R | 162 ms  
+Round 100
+4 | R | 1 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 20 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | R | 162 ms  
+Round 101
+4 | R | 9 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 9 ms  (dead)
+2 | X | 3 ms  (dead)
+1 | R | 162 ms  
+Round 102
+4 | R | 2 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 4 ms  (dead)
+2 | X | 8 ms  (dead)
+1 | R | 161 ms  
+Round 103
+4 | R | 1 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 2 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | U | 1 ms  
+Round 104
+4 | R | 1 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 2 ms  (dead)
+1 | L | 162 ms  
+Round 105
+4 | R | 2 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 13 ms  (dead)
+2 | X | 13 ms  (dead)
+1 | L | 161 ms  
+Round 106
+4 | D | 0 ms  
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 3 ms  (dead)
+1 | U | 162 ms  
+Round 107
+4 | D | 2 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | R | 162 ms  
+Round 108
+4 | D | 14 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 5 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | R | 162 ms  
+Round 109
+4 | D | 0 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 4 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | R | 162 ms  
+Round 110
+4 | D | 17 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | R | 165 ms  
+Round 111
+4 | D | 8 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 4 ms  (dead)
+2 | X | 0 ms  (dead)
+1 | U | 0 ms  
+Round 112
+4 | D | 3 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | L | 162 ms  
+Round 113
+4 | D | 1 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 4 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | L | 162 ms  
+Round 114
+4 | D | 9 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 4 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | L | 162 ms  
+Round 115
+4 | D | 11 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 0 ms  (dead)
+1 | U | 163 ms  
+Round 116
+4 | D | 1 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 4 ms  (dead)
+2 | X | 4 ms  (dead)
+1 | R | 163 ms  
+Round 117
+4 | D | 1 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 2 ms  (dead)
+1 | R | 162 ms  
+Round 118
+4 | D | 7 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | R | 162 ms  
+Round 119
+4 | D | 1 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 4 ms  (dead)
+2 | X | 11 ms  (dead)
+1 | R | 161 ms  
+Round 120
+4 | D | 11 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 3 ms  (dead)
+1 | R | 161 ms  
+Round 121
+4 | D | 1 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | R | 161 ms  
+Round 122
+4 | D | 1 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 4 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | U | 162 ms  
+Round 123
+4 | D | 1 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 0 ms  (dead)
+1 | L | 161 ms  
+Round 124
+4 | D | 1 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 18 ms  (dead)
+2 | X | 6 ms  (dead)
+1 | L | 162 ms  
+Round 125
+4 | D | 1 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 4 ms  (dead)
+1 | L | 161 ms  
+Round 126
+4 | D | 3 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 3 ms  (dead)
+1 | L | 162 ms  
+Round 127
+4 | D | 3 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 4 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | L | 161 ms  
+Round 128
+4 | D | 13 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 2 ms  (dead)
+1 | L | 162 ms  
+Round 129
+4 | D | 2 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 4 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | L | 161 ms  
+Round 130
+4 | D | 4 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | L | 162 ms  
+Round 131
+4 | D | 33 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 17 ms  (dead)
+2 | X | 25 ms  (dead)
+1 | D | 162 ms  
+Round 132
+4 | D | 2 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | R | 161 ms  
+Round 133
+4 | D | 0 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | D | 1 ms  
+Round 134
+4 | D | 1 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 2 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | L | 1 ms  
+Round 135
+4 | D | 3 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | D | 163 ms  
+Round 136
+4 | D | 4 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 0 ms  (dead)
+1 | D | 163 ms  
+Round 137
+4 | D | 0 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 8 ms  (dead)
+1 | L | 9 ms  
+Round 138
+4 | D | 3 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 12 ms  (dead)
+2 | X | 21 ms  (dead)
+1 | U | 162 ms  
+Round 139
+4 | D | 1 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 15 ms  (dead)
+2 | X | 0 ms  (dead)
+1 | U | 162 ms  
+Round 140
+4 | D | 1 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 2 ms  (dead)
+1 | U | 161 ms  
+Round 141
+4 | D | 16 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 4 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | U | 162 ms  
+Round 142
+4 | D | 2 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 15 ms  (dead)
+1 | L | 162 ms  
+Round 143
+4 | D | 1 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 0 ms  (dead)
+1 | L | 162 ms  
+Round 144
+4 | D | 3 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 4 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | U | 163 ms  
+Round 145
+4 | D | 1 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | R | 162 ms  
+Round 146
+4 | D | 13 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 5 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | R | 162 ms  
+Round 147
+4 | D | 1 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | R | 1 ms  
+Round 148
+4 | D | 0 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 2 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | R | 1 ms  
+Round 149
+4 | D | 0 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | R | 1 ms  
+Round 150
+4 | D | 1 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 2 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | R | 0 ms  
+Round 151
+4 | D | 0 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | R | 0 ms  
+Round 152
+4 | D | 1 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 0 ms  (dead)
+1 | R | 0 ms  
+Round 153
+4 | D | 1 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 2 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | U | 162 ms  
+Round 154
+4 | D | 1 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 2 ms  (dead)
+2 | X | 0 ms  (dead)
+1 | R | 1 ms  
+Round 155
+4 | D | 18 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | D | 161 ms  
+Round 156
+4 | D | 0 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | R | 0 ms  
+Round 157
+4 | D | 1 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 17 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | U | 162 ms  
+Round 158
+4 | D | 1 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | R | 1 ms  
+Round 159
+4 | D | 20 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 28 ms  (dead)
+2 | X | 3 ms  (dead)
+1 | D | 162 ms  
+Round 160
+4 | D | 1 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | R | 0 ms  
+Round 161
+4 | D | 2 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 12 ms  (dead)
+2 | X | 21 ms  (dead)
+1 | U | 162 ms  
+Round 162
+4 | D | 1 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 2 ms  (dead)
+2 | X | 0 ms  (dead)
+1 | R | 1 ms  
+Round 163
+4 | D | 3 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 0 ms  (dead)
+1 | R | 163 ms  
+Round 164
+4 | D | 1 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 13 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | R | 162 ms  
+Round 165
+4 | D | 1 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 13 ms  (dead)
+2 | X | 0 ms  (dead)
+1 | R | 162 ms  
+Round 166
+4 | D | 1 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | D | 1 ms  
+Round 167
+4 | D | 13 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 4 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | L | 162 ms  
+Round 168
+4 | D | 12 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 7 ms  (dead)
+1 | D | 162 ms  
+Round 169
+4 | D | 16 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 13 ms  (dead)
+2 | X | 19 ms  (dead)
+1 | L | 162 ms  
+Round 170
+4 | D | 1 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 14 ms  (dead)
+1 | U | 162 ms  
+Round 171
+4 | D | 1 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | L | 1 ms  
+Round 172
+4 | D | 1 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 0 ms  (dead)
+1 | D | 1 ms  
+Round 173
+4 | D | 7 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 9 ms  (dead)
+2 | X | 8 ms  (dead)
+1 | L | 162 ms  
+Round 174
+4 | D | 1 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 2 ms  (dead)
+2 | X | 0 ms  (dead)
+1 | D | 1 ms  
+Round 175
+4 | D | 1 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 2 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | R | 1 ms  
+Round 176
+4 | D | 0 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 2 ms  (dead)
+2 | X | 0 ms  (dead)
+1 | R | 1 ms  
+Round 177
+4 | D | 1 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 2 ms  (dead)
+2 | X | 0 ms  (dead)
+1 | R | 1 ms  
+Round 178
+4 | D | 1 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 0 ms  (dead)
+1 | D | 162 ms  
+Round 179
+4 | D | 11 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 18 ms  (dead)
+1 | D | 162 ms  
+Round 180
+4 | D | 2 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 4 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | D | 163 ms  
+Round 181
+4 | D | 2 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 15 ms  (dead)
+1 | D | 162 ms  
+Round 182
+4 | D | 0 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | R | 0 ms  
+Round 183
+4 | D | 18 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 18 ms  (dead)
+2 | X | 16 ms  (dead)
+1 | U | 162 ms  
+Round 184
+4 | D | 2 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 9 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | R | 162 ms  
+Round 185
+4 | D | 2 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 2 ms  (dead)
+1 | D | 162 ms  
+Round 186
+4 | D | 0 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | R | 1 ms  
+Round 187
+4 | D | 1 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | U | 162 ms  
+Round 188
+4 | D | 11 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 10 ms  (dead)
+2 | X | 3 ms  (dead)
+1 | R | 161 ms  
+Round 189
+4 | D | 1 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 0 ms  (dead)
+1 | D | 162 ms  
+Round 190
+4 | D | 0 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | R | 0 ms  
+Round 191
+4 | D | 1 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 2 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | U | 1 ms  
+Round 192
+4 | D | 3 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 0 ms  (dead)
+2 | X | 14 ms  (dead)
+1 | R | 162 ms  
+Round 193
+4 | D | 1 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | U | 1 ms  
+Round 194
+4 | D | 2 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | L | 162 ms  
+Round 195
+4 | D | 1 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | L | 163 ms  
+Round 196
+4 | D | 1 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 4 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | L | 161 ms  
+Round 197
+4 | D | 1 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 10 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | L | 161 ms  
+Round 198
+4 | D | 1 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 4 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | L | 162 ms  
+Round 199
+4 | D | 1 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 2 ms  (dead)
+2 | X | 0 ms  (dead)
+1 | U | 1 ms  
+Round 200
+4 | D | 13 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 15 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | R | 161 ms  
+Round 201
+4 | D | 3 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 0 ms  (dead)
+1 | R | 162 ms  
+Round 202
+4 | D | 0 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 18 ms  (dead)
+2 | X | 4 ms  (dead)
+1 | R | 161 ms  
+Round 203
+4 | D | 1 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 4 ms  (dead)
+2 | X | 8 ms  (dead)
+1 | R | 162 ms  
+Round 204
+4 | D | 5 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 16 ms  (dead)
+2 | X | 5 ms  (dead)
+1 | R | 162 ms  
+Round 205
+4 | D | 1 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 0 ms  (dead)
+1 | U | 1 ms  
+Round 206
+4 | D | 0 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | L | 0 ms  
+Round 207
+4 | D | 1 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | L | 1 ms  
+Round 208
+4 | D | 7 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 6 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | L | 161 ms  
+Round 209
+4 | D | 2 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 4 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | L | 162 ms  
+Round 210
+4 | D | 2 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 14 ms  (dead)
+2 | X | 14 ms  (dead)
+1 | L | 162 ms  
+Round 211
+4 | D | 1 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | U | 0 ms  
+Round 212
+4 | D | 1 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | R | 1 ms  
+Round 213
+4 | D | 1 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | U | 162 ms  
+Round 214
+4 | D | 0 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | R | 1 ms  
+Round 215
+4 | D | 1 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | D | 162 ms  
+Round 216
+4 | D | 1 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 2 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | R | 1 ms  
+Round 217
+4 | D | 1 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 2 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | U | 1 ms  
+Round 218
+4 | D | 1 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 2 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | U | 1 ms  
+Round 219
+4 | D | 21 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 5 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | R | 161 ms  
+Round 220
+4 | D | 1 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | R | 1 ms  
+Round 221
+4 | D | 1 ms  (dead)
+3 | java.lang.RuntimeException: lorem ipsum dolor! "}}}}!!!!;;' | 3 ms  (dead)
+2 | X | 1 ms  (dead)
+1 | R | 1 ms  
