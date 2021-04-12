@@ -1,0 +1,660 @@
+Round 1
+3 | L | 1 ms  
+1 | L | 162 ms  
+2 | X | 1 ms  
+Round 2
+3 | L | 0 ms  
+1 | L | 161 ms  
+2 | X | 1 ms  (dead)
+Round 3
+3 | L | 2 ms  
+1 | L | 163 ms  
+2 | X | 1 ms  (dead)
+Round 4
+3 | L | 0 ms  
+1 | D | 162 ms  
+2 | X | 1 ms  (dead)
+Round 5
+3 | L | 19 ms  
+1 | R | 162 ms  
+2 | X | 1 ms  (dead)
+Round 6
+3 | U | 0 ms  
+1 | R | 162 ms  
+2 | X | 1 ms  (dead)
+Round 7
+3 | R | 1 ms  
+1 | R | 161 ms  
+2 | X | 1 ms  (dead)
+Round 8
+3 | R | 1 ms  
+1 | R | 161 ms  
+2 | X | 1 ms  (dead)
+Round 9
+3 | R | 1 ms  
+1 | U | 162 ms  
+2 | X | 1 ms  (dead)
+Round 10
+3 | R | 0 ms  
+1 | R | 162 ms  
+2 | X | 1 ms  (dead)
+Round 11
+3 | R | 1 ms  
+1 | R | 161 ms  
+2 | X | 1 ms  (dead)
+Round 12
+3 | R | 1 ms  
+1 | R | 162 ms  
+2 | X | 1 ms  (dead)
+Round 13
+3 | R | 1 ms  
+1 | D | 161 ms  
+2 | X | 1 ms  (dead)
+Round 14
+3 | R | 1 ms  
+1 | R | 161 ms  
+2 | X | 1 ms  (dead)
+Round 15
+3 | R | 2 ms  
+1 | R | 162 ms  
+2 | X | 1 ms  (dead)
+Round 16
+3 | R | 1 ms  
+1 | U | 162 ms  
+2 | X | 1 ms  (dead)
+Round 17
+3 | R | 1 ms  
+1 | R | 161 ms  
+2 | X | 1 ms  (dead)
+Round 18
+3 | R | 0 ms  
+1 | R | 162 ms  
+2 | X | 1 ms  (dead)
+Round 19
+3 | R | 5 ms  
+1 | U | 164 ms  
+2 | X | 4 ms  (dead)
+Round 20
+3 | R | 1 ms  
+1 | L | 161 ms  
+2 | X | 0 ms  (dead)
+Round 21
+3 | R | 9 ms  
+1 | U | 162 ms  
+2 | X | 1 ms  (dead)
+Round 22
+3 | R | 1 ms  
+1 | L | 162 ms  
+2 | X | 1 ms  (dead)
+Round 23
+3 | D | 1 ms  
+1 | L | 162 ms  
+2 | X | 1 ms  (dead)
+Round 24
+3 | D | 2 ms  (dead)
+1 | L | 161 ms  
+2 | X | 1 ms  (dead)
+Round 25
+3 | D | 1 ms  (dead)
+1 | L | 161 ms  
+2 | X | 1 ms  (dead)
+Round 26
+3 | D | 16 ms  (dead)
+1 | L | 162 ms  
+2 | X | 1 ms  (dead)
+Round 27
+3 | D | 1 ms  (dead)
+1 | L | 162 ms  
+2 | X | 1 ms  (dead)
+Round 28
+3 | D | 1 ms  (dead)
+1 | L | 162 ms  
+2 | X | 1 ms  (dead)
+Round 29
+3 | D | 1 ms  (dead)
+1 | L | 162 ms  
+2 | X | 1 ms  (dead)
+Round 30
+3 | D | 1 ms  (dead)
+1 | L | 162 ms  
+2 | X | 1 ms  (dead)
+Round 31
+3 | D | 1 ms  (dead)
+1 | L | 162 ms  
+2 | X | 4 ms  (dead)
+Round 32
+3 | D | 13 ms  (dead)
+1 | L | 162 ms  
+2 | X | 1 ms  (dead)
+Round 33
+3 | D | 1 ms  (dead)
+1 | L | 162 ms  
+2 | X | 1 ms  (dead)
+Round 34
+3 | D | 2 ms  (dead)
+1 | L | 162 ms  
+2 | X | 1 ms  (dead)
+Round 35
+3 | D | 1 ms  (dead)
+1 | L | 162 ms  
+2 | X | 1 ms  (dead)
+Round 36
+3 | D | 1 ms  (dead)
+1 | L | 162 ms  
+2 | X | 1 ms  (dead)
+Round 37
+3 | D | 1 ms  (dead)
+1 | L | 161 ms  
+2 | X | 1 ms  (dead)
+Round 38
+3 | D | 1 ms  (dead)
+1 | L | 161 ms  
+2 | X | 2 ms  (dead)
+Round 39
+3 | D | 1 ms  (dead)
+1 | U | 163 ms  
+2 | X | 1 ms  (dead)
+Round 40
+3 | D | 1 ms  (dead)
+1 | R | 161 ms  
+2 | X | 1 ms  (dead)
+Round 41
+3 | D | 1 ms  (dead)
+1 | R | 162 ms  
+2 | X | 17 ms  (dead)
+Round 42
+3 | D | 1 ms  (dead)
+1 | R | 161 ms  
+2 | X | 1 ms  (dead)
+Round 43
+3 | D | 3 ms  (dead)
+1 | R | 161 ms  
+2 | X | 1 ms  (dead)
+Round 44
+3 | D | 1 ms  (dead)
+1 | R | 161 ms  
+2 | X | 1 ms  (dead)
+Round 45
+3 | D | 1 ms  (dead)
+1 | R | 162 ms  
+2 | X | 1 ms  (dead)
+Round 46
+3 | D | 1 ms  (dead)
+1 | R | 162 ms  
+2 | X | 1 ms  (dead)
+Round 47
+3 | D | 22 ms  (dead)
+1 | R | 162 ms  
+2 | X | 1 ms  (dead)
+Round 48
+3 | D | 1 ms  (dead)
+1 | R | 162 ms  
+2 | X | 1 ms  (dead)
+Round 49
+3 | D | 0 ms  (dead)
+1 | R | 162 ms  
+2 | X | 1 ms  (dead)
+Round 50
+3 | D | 0 ms  (dead)
+1 | R | 162 ms  
+2 | X | 1 ms  (dead)
+Round 51
+3 | D | 0 ms  (dead)
+1 | R | 162 ms  
+2 | X | 0 ms  (dead)
+Round 52
+3 | D | 1 ms  (dead)
+1 | U | 162 ms  
+2 | X | 1 ms  (dead)
+Round 53
+3 | D | 1 ms  (dead)
+1 | L | 162 ms  
+2 | X | 1 ms  (dead)
+Round 54
+3 | D | 1 ms  (dead)
+1 | L | 162 ms  
+2 | X | 1 ms  (dead)
+Round 55
+3 | D | 0 ms  (dead)
+1 | L | 162 ms  
+2 | X | 1 ms  (dead)
+Round 56
+3 | D | 1 ms  (dead)
+1 | L | 162 ms  
+2 | X | 1 ms  (dead)
+Round 57
+3 | D | 0 ms  (dead)
+1 | L | 162 ms  
+2 | X | 1 ms  (dead)
+Round 58
+3 | D | 1 ms  (dead)
+1 | U | 162 ms  
+2 | X | 1 ms  (dead)
+Round 59
+3 | D | 13 ms  (dead)
+1 | R | 162 ms  
+2 | X | 1 ms  (dead)
+Round 60
+3 | D | 28 ms  (dead)
+1 | R | 162 ms  
+2 | X | 1 ms  (dead)
+Round 61
+3 | D | 1 ms  (dead)
+1 | R | 161 ms  
+2 | X | 1 ms  (dead)
+Round 62
+3 | D | 1 ms  (dead)
+1 | R | 162 ms  
+2 | X | 1 ms  (dead)
+Round 63
+3 | D | 1 ms  (dead)
+1 | R | 162 ms  
+2 | X | 1 ms  (dead)
+Round 64
+3 | D | 1 ms  (dead)
+1 | U | 162 ms  
+2 | X | 1 ms  (dead)
+Round 65
+3 | D | 1 ms  (dead)
+1 | R | 161 ms  
+2 | X | 12 ms  (dead)
+Round 66
+3 | D | 1 ms  (dead)
+1 | D | 162 ms  
+2 | X | 3 ms  (dead)
+Round 67
+3 | D | 1 ms  (dead)
+1 | D | 161 ms  
+2 | X | 1 ms  (dead)
+Round 68
+3 | D | 1 ms  (dead)
+1 | D | 161 ms  
+2 | X | 1 ms  (dead)
+Round 69
+3 | D | 1 ms  (dead)
+1 | R | 1 ms  
+2 | X | 1 ms  (dead)
+Round 70
+3 | D | 1 ms  (dead)
+1 | U | 161 ms  
+2 | X | 18 ms  (dead)
+Round 71
+3 | D | 0 ms  (dead)
+1 | U | 162 ms  
+2 | X | 1 ms  (dead)
+Round 72
+3 | D | 1 ms  (dead)
+1 | U | 161 ms  
+2 | X | 1 ms  (dead)
+Round 73
+3 | D | 0 ms  (dead)
+1 | R | 161 ms  
+2 | X | 1 ms  (dead)
+Round 74
+3 | D | 1 ms  (dead)
+1 | D | 162 ms  
+2 | X | 1 ms  (dead)
+Round 75
+3 | D | 1 ms  (dead)
+1 | D | 162 ms  
+2 | X | 1 ms  (dead)
+Round 76
+3 | D | 1 ms  (dead)
+1 | D | 162 ms  
+2 | X | 1 ms  (dead)
+Round 77
+3 | D | 1 ms  (dead)
+1 | R | 1 ms  
+2 | X | 1 ms  (dead)
+Round 78
+3 | D | 0 ms  (dead)
+1 | U | 162 ms  
+2 | X | 1 ms  (dead)
+Round 79
+3 | D | 1 ms  (dead)
+1 | U | 162 ms  
+2 | X | 1 ms  (dead)
+Round 80
+3 | D | 1 ms  (dead)
+1 | R | 162 ms  
+2 | X | 1 ms  (dead)
+Round 81
+3 | D | 7 ms  (dead)
+1 | U | 162 ms  
+2 | X | 16 ms  (dead)
+Round 82
+3 | D | 1 ms  (dead)
+1 | L | 162 ms  
+2 | X | 1 ms  (dead)
+Round 83
+3 | D | 1 ms  (dead)
+1 | U | 0 ms  
+2 | X | 1 ms  (dead)
+Round 84
+3 | D | 0 ms  (dead)
+1 | R | 162 ms  
+2 | X | 1 ms  (dead)
+Round 85
+3 | D | 1 ms  (dead)
+1 | R | 162 ms  
+2 | X | 1 ms  (dead)
+Round 86
+3 | D | 1 ms  (dead)
+1 | D | 162 ms  
+2 | X | 13 ms  (dead)
+Round 87
+3 | D | 1 ms  (dead)
+1 | D | 161 ms  
+2 | X | 1 ms  (dead)
+Round 88
+3 | D | 1 ms  (dead)
+1 | R | 163 ms  
+2 | X | 1 ms  (dead)
+Round 89
+3 | D | 1 ms  (dead)
+1 | U | 161 ms  
+2 | X | 1 ms  (dead)
+Round 90
+3 | D | 1 ms  (dead)
+1 | R | 161 ms  
+2 | X | 15 ms  (dead)
+Round 91
+3 | D | 1 ms  (dead)
+1 | D | 162 ms  
+2 | X | 1 ms  (dead)
+Round 92
+3 | D | 13 ms  (dead)
+1 | R | 162 ms  
+2 | X | 1 ms  (dead)
+Round 93
+3 | D | 1 ms  (dead)
+1 | U | 161 ms  
+2 | X | 1 ms  (dead)
+Round 94
+3 | D | 1 ms  (dead)
+1 | U | 162 ms  
+2 | X | 1 ms  (dead)
+Round 95
+3 | D | 17 ms  (dead)
+1 | R | 161 ms  
+2 | X | 1 ms  (dead)
+Round 96
+3 | D | 1 ms  (dead)
+1 | D | 162 ms  
+2 | X | 0 ms  (dead)
+Round 97
+3 | D | 1 ms  (dead)
+1 | D | 162 ms  
+2 | X | 1 ms  (dead)
+Round 98
+3 | D | 1 ms  (dead)
+1 | R | 162 ms  
+2 | X | 5 ms  (dead)
+Round 99
+3 | D | 1 ms  (dead)
+1 | U | 163 ms  
+2 | X | 1 ms  (dead)
+Round 100
+3 | D | 0 ms  (dead)
+1 | U | 162 ms  
+2 | X | 1 ms  (dead)
+Round 101
+3 | D | 0 ms  (dead)
+1 | U | 162 ms  
+2 | X | 1 ms  (dead)
+Round 102
+3 | D | 1 ms  (dead)
+1 | R | 162 ms  
+2 | X | 1 ms  (dead)
+Round 103
+3 | D | 1 ms  (dead)
+1 | D | 162 ms  
+2 | X | 1 ms  (dead)
+Round 104
+3 | D | 1 ms  (dead)
+1 | D | 162 ms  
+2 | X | 1 ms  (dead)
+Round 105
+3 | D | 1 ms  (dead)
+1 | D | 162 ms  
+2 | X | 1 ms  (dead)
+Round 106
+3 | D | 1 ms  (dead)
+1 | R | 162 ms  
+2 | X | 1 ms  (dead)
+Round 107
+3 | D | 1 ms  (dead)
+1 | U | 162 ms  
+2 | X | 1 ms  (dead)
+Round 108
+3 | D | 1 ms  (dead)
+1 | U | 162 ms  
+2 | X | 1 ms  (dead)
+Round 109
+3 | D | 1 ms  (dead)
+1 | U | 162 ms  
+2 | X | 1 ms  (dead)
+Round 110
+3 | D | 1 ms  (dead)
+1 | R | 162 ms  
+2 | X | 1 ms  (dead)
+Round 111
+3 | D | 0 ms  (dead)
+1 | D | 162 ms  
+2 | X | 1 ms  (dead)
+Round 112
+3 | D | 0 ms  (dead)
+1 | D | 162 ms  
+2 | X | 1 ms  (dead)
+Round 113
+3 | D | 2 ms  (dead)
+1 | D | 162 ms  
+2 | X | 1 ms  (dead)
+Round 114
+3 | D | 1 ms  (dead)
+1 | D | 0 ms  
+2 | X | 1 ms  (dead)
+Round 115
+3 | D | 1 ms  (dead)
+1 | L | 0 ms  
+2 | X | 0 ms  (dead)
+Round 116
+3 | D | 0 ms  (dead)
+1 | L | 7 ms  
+2 | X | 1 ms  (dead)
+Round 117
+3 | D | 0 ms  (dead)
+1 | L | 1 ms  
+2 | X | 1 ms  (dead)
+Round 118
+3 | D | 0 ms  (dead)
+1 | L | 1 ms  
+2 | X | 0 ms  (dead)
+Round 119
+3 | D | 1 ms  (dead)
+1 | L | 1 ms  
+2 | X | 1 ms  (dead)
+Round 120
+3 | D | 0 ms  (dead)
+1 | L | 0 ms  
+2 | X | 1 ms  (dead)
+Round 121
+3 | D | 0 ms  (dead)
+1 | L | 1 ms  
+2 | X | 0 ms  (dead)
+Round 122
+3 | D | 1 ms  (dead)
+1 | L | 163 ms  
+2 | X | 1 ms  (dead)
+Round 123
+3 | D | 1 ms  (dead)
+1 | L | 161 ms  
+2 | X | 0 ms  (dead)
+Round 124
+3 | D | 1 ms  (dead)
+1 | D | 1 ms  
+2 | X | 0 ms  (dead)
+Round 125
+3 | D | 1 ms  (dead)
+1 | R | 0 ms  
+2 | X | 1 ms  (dead)
+Round 126
+3 | D | 1 ms  (dead)
+1 | D | 161 ms  
+2 | X | 0 ms  (dead)
+Round 127
+3 | D | 1 ms  (dead)
+1 | R | 0 ms  
+2 | X | 1 ms  (dead)
+Round 128
+3 | D | 1 ms  (dead)
+1 | D | 161 ms  
+2 | X | 0 ms  (dead)
+Round 129
+3 | D | 1 ms  (dead)
+1 | D | 0 ms  
+2 | X | 1 ms  (dead)
+Round 130
+3 | D | 0 ms  (dead)
+1 | D | 0 ms  
+2 | X | 0 ms  (dead)
+Round 131
+3 | D | 0 ms  (dead)
+1 | R | 162 ms  
+2 | X | 0 ms  (dead)
+Round 132
+3 | D | 13 ms  (dead)
+1 | D | 161 ms  
+2 | X | 13 ms  (dead)
+Round 133
+3 | D | 2 ms  (dead)
+1 | D | 162 ms  
+2 | X | 1 ms  (dead)
+Round 134
+3 | D | 1 ms  (dead)
+1 | L | 1 ms  
+2 | X | 1 ms  (dead)
+Round 135
+3 | D | 0 ms  (dead)
+1 | U | 1 ms  
+2 | X | 1 ms  (dead)
+Round 136
+3 | D | 1 ms  (dead)
+1 | L | 0 ms  
+2 | X | 1 ms  (dead)
+Round 137
+3 | D | 0 ms  (dead)
+1 | U | 161 ms  
+2 | X | 1 ms  (dead)
+Round 138
+3 | D | 1 ms  (dead)
+1 | L | 0 ms  
+2 | X | 1 ms  (dead)
+Round 139
+3 | D | 0 ms  (dead)
+1 | D | 1 ms  
+2 | X | 1 ms  (dead)
+Round 140
+3 | D | 0 ms  (dead)
+1 | L | 1 ms  
+2 | X | 1 ms  (dead)
+Round 141
+3 | D | 1 ms  (dead)
+1 | L | 0 ms  
+2 | X | 1 ms  (dead)
+Round 142
+3 | D | 1 ms  (dead)
+1 | D | 161 ms  
+2 | X | 0 ms  (dead)
+Round 143
+3 | D | 1 ms  (dead)
+1 | L | 0 ms  
+2 | X | 1 ms  (dead)
+Round 144
+3 | D | 0 ms  (dead)
+1 | U | 162 ms  
+2 | X | 1 ms  (dead)
+Round 145
+3 | D | 1 ms  (dead)
+1 | L | 0 ms  
+2 | X | 1 ms  (dead)
+Round 146
+3 | D | 1 ms  (dead)
+1 | U | 162 ms  
+2 | X | 1 ms  (dead)
+Round 147
+3 | D | 1 ms  (dead)
+1 | L | 0 ms  
+2 | X | 1 ms  (dead)
+Round 148
+3 | D | 1 ms  (dead)
+1 | D | 0 ms  
+2 | X | 1 ms  (dead)
+Round 149
+3 | D | 1 ms  (dead)
+1 | L | 161 ms  
+2 | X | 1 ms  (dead)
+Round 150
+3 | D | 1 ms  (dead)
+1 | L | 162 ms  
+2 | X | 1 ms  (dead)
+Round 151
+3 | D | 1 ms  (dead)
+1 | L | 162 ms  
+2 | X | 1 ms  (dead)
+Round 152
+3 | D | 0 ms  (dead)
+1 | L | 162 ms  
+2 | X | 0 ms  (dead)
+Round 153
+3 | D | 0 ms  (dead)
+1 | L | 162 ms  
+2 | X | 1 ms  (dead)
+Round 154
+3 | D | 1 ms  (dead)
+1 | D | 0 ms  
+2 | X | 1 ms  (dead)
+Round 155
+3 | D | 1 ms  (dead)
+1 | D | 161 ms  
+2 | X | 1 ms  (dead)
+Round 156
+3 | D | 1 ms  (dead)
+1 | R | 1 ms  
+2 | X | 1 ms  (dead)
+Round 157
+3 | D | 0 ms  (dead)
+1 | U | 162 ms  
+2 | X | 1 ms  (dead)
+Round 158
+3 | D | 1 ms  (dead)
+1 | R | 0 ms  
+2 | X | 1 ms  (dead)
+Round 159
+3 | D | 0 ms  (dead)
+1 | D | 162 ms  
+2 | X | 1 ms  (dead)
+Round 160
+3 | D | 1 ms  (dead)
+1 | R | 0 ms  
+2 | X | 1 ms  (dead)
+Round 161
+3 | D | 0 ms  (dead)
+1 | R | 162 ms  
+2 | X | 1 ms  (dead)
+Round 162
+3 | D | 1 ms  (dead)
+1 | U | 0 ms  
+2 | X | 1 ms  (dead)
+Round 163
+3 | D | 0 ms  (dead)
+1 | R | 161 ms  
+2 | X | 0 ms  (dead)
+Round 164
+3 | D | 1 ms  (dead)
+1 | R | 0 ms  
+2 | X | 1 ms  (dead)
+Round 165
+3 | D | 1 ms  (dead)
+1 | R | 1 ms  
+2 | X | 0 ms  (dead)
