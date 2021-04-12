@@ -259,10 +259,12 @@ var gameplayer = (function() {
                 .css('background-color', get_player_color(player.id))
                 .text('');
 
+            var playerVersion = player.version ? " v" + player.version : '';
+
             var player_name_td = $('<td></td>')
                 .addClass('player_name')
                 .css('color', get_player_color(player.id))
-                .text(player.name + " v" + player.version);
+                .text(player.name + playerVersion);
 
             var player_score_td = $('<td></td>')
                 .addClass('player_score')
