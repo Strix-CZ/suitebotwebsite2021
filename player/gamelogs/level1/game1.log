@@ -1,0 +1,465 @@
+Round 1
+1 | U | 150 ms  
+3 | java.lang.RuntimeException: :( | 1 ms  
+4 | L | 0 ms  
+2 | null | 250+ ms (timeout) 
+Round 2
+1 | L | 99 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | L | 0 ms  
+2 | null | 250+ ms (timeout) (dead)
+Round 3
+1 | L | 100 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | L | 0 ms  
+2 | null | 250+ ms (timeout) (dead)
+Round 4
+1 | L | 143 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | L | 1 ms  
+2 | null | 250+ ms (timeout) (dead)
+Round 5
+1 | L | 100 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | U | 0 ms  
+2 | null | 250+ ms (timeout) (dead)
+Round 6
+1 | L | 150 ms  
+3 | java.lang.RuntimeException: :( | 2 ms  (dead)
+4 | L | 0 ms  
+2 | null | 250+ ms (timeout) (dead)
+Round 7
+1 | L | 127 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | L | 0 ms  
+2 | null | 250+ ms (timeout) (dead)
+Round 8
+1 | L | 102 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | L | 0 ms  
+2 | null | 250+ ms (timeout) (dead)
+Round 9
+1 | L | 66 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | L | 0 ms  
+2 | null | 250+ ms (timeout) (dead)
+Round 10
+1 | U | 149 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | L | 0 ms  
+2 | null | 250+ ms (timeout) (dead)
+Round 11
+1 | L | 101 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | U | 0 ms  
+2 | null | 250+ ms (timeout) (dead)
+Round 12
+1 | L | 124 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | L | 0 ms  
+2 | null | 250+ ms (timeout) (dead)
+Round 13
+1 | U | 95 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | L | 0 ms  
+2 | null | 250+ ms (timeout) (dead)
+Round 14
+1 | L | 150 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | L | 0 ms  
+2 | null | 250+ ms (timeout) (dead)
+Round 15
+1 | U | 106 ms  
+3 | java.lang.RuntimeException: :( | 1 ms  (dead)
+4 | L | 0 ms  
+2 | null | 250+ ms (timeout) (dead)
+Round 16
+1 | L | 154 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | L | 0 ms  
+2 | null | 250+ ms (timeout) (dead)
+Round 17
+1 | L | 153 ms  
+3 | java.lang.RuntimeException: :( | 1 ms  (dead)
+4 | L | 0 ms  
+2 | null | 250+ ms (timeout) (dead)
+Round 18
+1 | L | 103 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | U | 0 ms  
+2 | null | 250+ ms (timeout) (dead)
+Round 19
+1 | L | 89 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | R | 0 ms  
+2 | null | 250+ ms (timeout) (dead)
+Round 20
+1 | D | 142 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | R | 0 ms  
+2 | null | 250+ ms (timeout) (dead)
+Round 21
+1 | L | 146 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | R | 0 ms  
+2 | null | 250+ ms (timeout) (dead)
+Round 22
+1 | U | 157 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | R | 0 ms  
+2 | null | 250+ ms (timeout) (dead)
+Round 23
+1 | U | 153 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | R | 0 ms  
+2 | null | 250+ ms (timeout) (dead)
+Round 24
+1 | R | 115 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | R | 0 ms  
+2 | null | 250+ ms (timeout) (dead)
+Round 25
+1 | R | 155 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | R | 0 ms  
+2 | null | 250+ ms (timeout) (dead)
+Round 26
+1 | R | 137 ms  
+3 | java.lang.RuntimeException: :( | 2 ms  (dead)
+4 | R | 0 ms  
+2 | null | 250+ ms (timeout) (dead)
+Round 27
+1 | U | 107 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | R | 0 ms  
+2 | null | 250+ ms (timeout) (dead)
+Round 28
+1 | U | 90 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | R | 0 ms  
+2 | null | 250+ ms (timeout) (dead)
+Round 29
+1 | R | 67 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | R | 1 ms  
+2 | null | 250+ ms (timeout) (dead)
+Round 30
+1 | D | 154 ms  
+3 | java.lang.RuntimeException: :( | 1 ms  (dead)
+4 | R | 0 ms  
+2 | null | 250+ ms (timeout) (dead)
+Round 31
+1 | D | 103 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | R | 0 ms  
+2 | null | 250+ ms (timeout) (dead)
+Round 32
+1 | R | 0 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | U | 0 ms  
+2 | null | 250+ ms (timeout) (dead)
+Round 33
+1 | R | 89 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | L | 0 ms  
+2 | null | 250+ ms (timeout) (dead)
+Round 34
+1 | D | 121 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | L | 0 ms  
+2 | null | 250+ ms (timeout) (dead)
+Round 35
+1 | R | 0 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | L | 0 ms  
+2 | null | 250+ ms (timeout) (dead)
+Round 36
+1 | D | 157 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | L | 0 ms  
+2 | null | 250+ ms (timeout) (dead)
+Round 37
+1 | R | 0 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | L | 0 ms  
+2 | null | 250+ ms (timeout) (dead)
+Round 38
+1 | U | 165 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | L | 0 ms  
+2 | null | 250+ ms (timeout) (dead)
+Round 39
+1 | R | 111 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | L | 0 ms  
+2 | null | 250+ ms (timeout) (dead)
+Round 40
+1 | U | 152 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | L | 0 ms  
+2 | null | 250+ ms (timeout) (dead)
+Round 41
+1 | L | 106 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | L | 0 ms  
+2 | null | 250+ ms (timeout) (dead)
+Round 42
+1 | L | 110 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | L | 0 ms  
+2 | null | 250+ ms (timeout) (dead)
+Round 43
+1 | U | 0 ms  
+3 | java.lang.RuntimeException: :( | 5 ms  (dead)
+4 | L | 0 ms  
+2 | null | 250+ ms (timeout) (dead)
+Round 44
+1 | L | 134 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | L | 0 ms  
+2 | null | 250+ ms (timeout) (dead)
+Round 45
+1 | L | 68 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | L | 0 ms  
+2 | null | 250+ ms (timeout) (dead)
+Round 46
+1 | U | 0 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | U | 0 ms  
+2 | null | 250+ ms (timeout) (dead)
+Round 47
+1 | U | 124 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | R | 0 ms  
+2 | null | 250+ ms (timeout) (dead)
+Round 48
+1 | L | 147 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | R | 0 ms  
+2 | null | 250+ ms (timeout) (dead)
+Round 49
+1 | L | 90 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | R | 0 ms  
+2 | null | 250+ ms (timeout) (dead)
+Round 50
+1 | L | 167 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | R | 0 ms  
+2 | null | 250+ ms (timeout) (dead)
+Round 51
+1 | D | 127 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | R | 0 ms  
+2 | null | 250+ ms (timeout) (dead)
+Round 52
+1 | D | 95 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | R | 0 ms  
+2 | null | 250+ ms (timeout) (dead)
+Round 53
+1 | L | 0 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | R | 0 ms  
+2 | null | 250+ ms (timeout) (dead)
+Round 54
+1 | L | 99 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | R | 0 ms  
+2 | null | 250+ ms (timeout) (dead)
+Round 55
+1 | L | 150 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | R | 0 ms  
+2 | null | 250+ ms (timeout) (dead)
+Round 56
+1 | U | 94 ms  
+3 | java.lang.RuntimeException: :( | 1 ms  (dead)
+4 | R | 0 ms  
+2 | null | 250+ ms (timeout) (dead)
+Round 57
+1 | U | 151 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | R | 0 ms  
+2 | null | 250+ ms (timeout) (dead)
+Round 58
+1 | L | 151 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | R | 0 ms  
+2 | null | 250+ ms (timeout) (dead)
+Round 59
+1 | L | 148 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | R | 0 ms  
+2 | null | 250+ ms (timeout) (dead)
+Round 60
+1 | U | 157 ms  
+3 | java.lang.RuntimeException: :( | 2 ms  (dead)
+4 | D | 0 ms  
+2 | null | 250+ ms (timeout) (dead)
+Round 61
+1 | R | 144 ms  
+3 | java.lang.RuntimeException: :( | 2 ms  (dead)
+4 | D | 0 ms  (dead)
+2 | null | 250+ ms (timeout) (dead)
+Round 62
+1 | R | 0 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | D | 0 ms  (dead)
+2 | null | 250+ ms (timeout) (dead)
+Round 63
+1 | R | 0 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | D | 0 ms  (dead)
+2 | null | 250+ ms (timeout) (dead)
+Round 64
+1 | D | 89 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | D | 0 ms  (dead)
+2 | null | 250+ ms (timeout) (dead)
+Round 65
+1 | D | 124 ms  
+3 | java.lang.RuntimeException: :( | 13 ms  (dead)
+4 | D | 0 ms  (dead)
+2 | null | 250+ ms (timeout) (dead)
+Round 66
+1 | R | 0 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | D | 0 ms  (dead)
+2 | null | 250+ ms (timeout) (dead)
+Round 67
+1 | U | 0 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | D | 0 ms  (dead)
+2 | null | 250+ ms (timeout) (dead)
+Round 68
+1 | U | 0 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | D | 0 ms  (dead)
+2 | null | 250+ ms (timeout) (dead)
+Round 69
+1 | R | 0 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | D | 0 ms  (dead)
+2 | null | 250+ ms (timeout) (dead)
+Round 70
+1 | R | 134 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | D | 0 ms  (dead)
+2 | null | 250+ ms (timeout) (dead)
+Round 71
+1 | R | 122 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | D | 0 ms  (dead)
+2 | null | 250+ ms (timeout) (dead)
+Round 72
+1 | R | 148 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | D | 0 ms  (dead)
+2 | null | 250+ ms (timeout) (dead)
+Round 73
+1 | R | 144 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | D | 1 ms  (dead)
+2 | null | 250+ ms (timeout) (dead)
+Round 74
+1 | D | 136 ms  
+3 | java.lang.RuntimeException: :( | 83 ms  (dead)
+4 | D | 0 ms  (dead)
+2 | null | 250+ ms (timeout) (dead)
+Round 75
+1 | D | 108 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | D | 0 ms  (dead)
+2 | null | 250+ ms (timeout) (dead)
+Round 76
+1 | R | 0 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | D | 0 ms  (dead)
+2 | null | 250+ ms (timeout) (dead)
+Round 77
+1 | R | 116 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | D | 0 ms  (dead)
+2 | null | 250+ ms (timeout) (dead)
+Round 78
+1 | D | 166 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | D | 0 ms  (dead)
+2 | null | 250+ ms (timeout) (dead)
+Round 79
+1 | R | 0 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | D | 0 ms  (dead)
+2 | null | 250+ ms (timeout) (dead)
+Round 80
+1 | U | 116 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | D | 0 ms  (dead)
+2 | null | 250+ ms (timeout) (dead)
+Round 81
+1 | U | 130 ms  
+3 | java.lang.RuntimeException: :( | 95 ms  (dead)
+4 | D | 0 ms  (dead)
+2 | null | 250+ ms (timeout) (dead)
+Round 82
+1 | L | 76 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | D | 0 ms  (dead)
+2 | null | 250+ ms (timeout) (dead)
+Round 83
+1 | L | 148 ms  
+3 | java.lang.RuntimeException: :( | 3 ms  (dead)
+4 | D | 0 ms  (dead)
+2 | null | 250+ ms (timeout) (dead)
+Round 84
+1 | U | 0 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | D | 0 ms  (dead)
+2 | null | 250+ ms (timeout) (dead)
+Round 85
+1 | R | 95 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | D | 0 ms  (dead)
+2 | null | 250+ ms (timeout) (dead)
+Round 86
+1 | R | 146 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | D | 1 ms  (dead)
+2 | null | 250+ ms (timeout) (dead)
+Round 87
+1 | R | 95 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | D | 0 ms  (dead)
+2 | null | 250+ ms (timeout) (dead)
+Round 88
+1 | R | 149 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | D | 0 ms  (dead)
+2 | null | 250+ ms (timeout) (dead)
+Round 89
+1 | R | 193 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | D | 0 ms  (dead)
+2 | null | 250+ ms (timeout) (dead)
+Round 90
+1 | D | 209 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | D | 0 ms  (dead)
+2 | null | 250+ ms (timeout) (dead)
+Round 91
+1 | R | 138 ms  
+3 | java.lang.RuntimeException: :( | 5 ms  (dead)
+4 | D | 0 ms  (dead)
+2 | null | 250+ ms (timeout) (dead)
+Round 92
+1 | R | 136 ms  
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | D | 0 ms  (dead)
+2 | null | 250+ ms (timeout) (dead)
+Round 93
+1 | null | 250+ ms (timeout) 
+3 | java.lang.RuntimeException: :( | 241 ms  (dead)
+4 | D | 1 ms  (dead)
+2 | null | 250+ ms (timeout) (dead)
