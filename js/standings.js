@@ -1,6 +1,6 @@
 var standings = (function() {
 
-	var TOTAL_LEVELS = 7;
+	var TOTAL_LEVELS = 6;
 
     function generate() {
         retrieve_all_level_data(function(all_level_data) {
