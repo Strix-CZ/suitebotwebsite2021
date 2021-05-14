@@ -1,0 +1,54 @@
+Round 1
+2 | null | 250+ ms (timeout) 
+5 | null | 250+ ms (timeout) 
+3 | java.lang.RuntimeException: :( | 0 ms  
+4 | L | 0 ms  
+1 | U | 238 ms  
+Round 2
+2 | null | 250+ ms (timeout) (dead)
+5 | null | 250+ ms (timeout) (dead)
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | L | 0 ms  
+1 | R | 147 ms  
+Round 3
+2 | null | 250+ ms (timeout) (dead)
+5 | null | 250+ ms (timeout) (dead)
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | L | 2 ms  
+1 | D | 145 ms  
+Round 4
+2 | null | 250+ ms (timeout) (dead)
+5 | null | 250+ ms (timeout) (dead)
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | U | 1 ms  
+1 | R | 139 ms  
+Round 5
+2 | null | 250+ ms (timeout) (dead)
+5 | null | 250+ ms (timeout) (dead)
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | L | 0 ms  
+1 | U | 156 ms  
+Round 6
+2 | null | 250+ ms (timeout) (dead)
+5 | null | 250+ ms (timeout) (dead)
+3 | java.lang.RuntimeException: :( | 1 ms  (dead)
+4 | null | 250+ ms (timeout) 
+1 | U | 99 ms  
+Round 7
+2 | null | 250+ ms (timeout) (dead)
+5 | null | 250+ ms (timeout) (dead)
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | null | 250+ ms (timeout) (dead)
+1 | L | 70 ms  
+Round 8
+2 | null | 250+ ms (timeout) (dead)
+5 | null | 250+ ms (timeout) (dead)
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | L | 0 ms  (dead)
+1 | L | 12 ms  
+Round 9
+2 | null | 250+ ms (timeout) (dead)
+5 | null | 250+ ms (timeout) (dead)
+3 | java.lang.RuntimeException: :( | 0 ms  (dead)
+4 | L | 0 ms  (dead)
+1 | null | 250+ ms (timeout) 
