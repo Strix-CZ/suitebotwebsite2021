@@ -1,0 +1,1619 @@
+{
+  "gamePlan": {
+    "width": 15,
+    "height": 10,
+    "startingPositions": [
+      {
+        "x": 7,
+        "y": 2
+      },
+      {
+        "x": 12,
+        "y": 2
+      },
+      {
+        "x": 2,
+        "y": 7
+      },
+      {
+        "x": 7,
+        "y": 7
+      },
+      {
+        "x": 12,
+        "y": 7
+      }
+    ],
+    "walls": []
+  },
+  "players": [
+    {
+      "id": 5,
+      "name": "SmallBot"
+    },
+    {
+      "id": 4,
+      "name": "TestBot2"
+    },
+    {
+      "id": 3,
+      "name": "My suitebot"
+    },
+    {
+      "id": 2,
+      "name": "My suitebot 2"
+    },
+    {
+      "id": 1,
+      "name": "TestBot"
+    }
+  ],
+  "rounds": [
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "U"
+        },
+        {
+          "playerId": 4,
+          "move": "L"
+        },
+        {
+          "playerId": 5,
+          "move": "D"
+        }
+      ],
+      "crashPositions": [
+        {
+          "x": 7,
+          "y": 7
+        },
+        {
+          "x": 2,
+          "y": 7
+        }
+      ],
+      "killedPlayerIds": [
+        2,
+        3
+      ],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "R"
+        },
+        {
+          "playerId": 4,
+          "move": "L"
+        },
+        {
+          "playerId": 5,
+          "move": "D"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "R"
+        },
+        {
+          "playerId": 4,
+          "move": "L"
+        },
+        {
+          "playerId": 5,
+          "move": "D"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "R"
+        },
+        {
+          "playerId": 4,
+          "move": "L"
+        },
+        {
+          "playerId": 5,
+          "move": "D"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "R"
+        },
+        {
+          "playerId": 4,
+          "move": "U"
+        },
+        {
+          "playerId": 5,
+          "move": "D"
+        }
+      ],
+      "crashPositions": [
+        {
+          "x": 7,
+          "y": 7
+        }
+      ],
+      "killedPlayerIds": [
+        5
+      ],
+      "idsOfPlayersKilledAfterFirstStep": [
+        5
+      ]
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "D"
+        },
+        {
+          "playerId": 4,
+          "move": "L"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "L"
+        }
+      ],
+      "crashPositions": [
+        {
+          "x": 7,
+          "y": 1
+        }
+      ],
+      "killedPlayerIds": [
+        4
+      ],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "D"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "R"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "R"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "R"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "U"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "R"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "U"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "L"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "L"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "U"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "L"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "L"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "L"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "L"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "L"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "U"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "R"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "R"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "U"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "U"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "U"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "U"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "L"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "U"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "R"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "U"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "U"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "L"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "D"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "L"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "D"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "D"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "L"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "U"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "U"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "U"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "U"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "U"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "U"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "L"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "D"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "D"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "D"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "D"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "D"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "D"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "D"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "R"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "R"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "R"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "D"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "D"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "L"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "L"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "L"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "L"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "L"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "D"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "R"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "D"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "L"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "D"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "R"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "D"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "L"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "D"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "L"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "L"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "U"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "U"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "U"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "U"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "L"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "L"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "U"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "L"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "L"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "L"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "L"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "D"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "R"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "R"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "R"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "D"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "R"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "R"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "D"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "D"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "D"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "L"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "D"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "L"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "L"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "L"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "L"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "D"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "D"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "D"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "R"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "U"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "U"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "R"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "D"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "D"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "R"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "U"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "U"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "R"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "D"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "D"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "R"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "D"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "R"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "U"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "U"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "L"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "U"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "U"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "R"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "D"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "R"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "U"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "R"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "D"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "R"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "U"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "U"
+        }
+      ],
+      "crashPositions": [],
+      "killedPlayerIds": [],
+      "idsOfPlayersKilledAfterFirstStep": []
+    },
+    {
+      "moves": [
+        {
+          "playerId": 1,
+          "move": "R"
+        }
+      ],
+      "crashPositions": [
+        {
+          "x": 10,
+          "y": 8
+        }
+      ],
+      "killedPlayerIds": [
+        1
+      ],
+      "idsOfPlayersKilledAfterFirstStep": [
+        1
+      ]
+    }
+  ]
+}
