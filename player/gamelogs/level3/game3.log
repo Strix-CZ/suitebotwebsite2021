@@ -1,0 +1,205 @@
+Round 1
+3 | U | 0 ms  
+1 | R | 0 ms  
+4 | L | 0 ms  
+2 | R | 0 ms  
+Round 2
+3 | U | 0 ms  
+1 | R | 0 ms  
+4 | U | 0 ms  
+2 | R | 0 ms  
+Round 3
+3 | U | 0 ms  
+1 | R | 0 ms  
+4 | L | 0 ms  
+2 | R | 0 ms  
+Round 4
+3 | U | 0 ms  
+1 | R | 0 ms  
+4 | R | 0 ms  
+2 | D | 0 ms  
+Round 5
+3 | R | 0 ms  
+1 | U | 1 ms  
+4 | R | 0 ms  (dead)
+2 | D | 0 ms  
+Round 6
+3 | U | 3 ms  
+1 | L | 0 ms  
+4 | R | 0 ms  (dead)
+2 | D | 0 ms  
+Round 7
+3 | U | 0 ms  
+1 | L | 0 ms  
+4 | R | 0 ms  (dead)
+2 | R | 0 ms  
+Round 8
+3 | U | 0 ms  
+1 | L | 0 ms  
+4 | R | 0 ms  (dead)
+2 | U | 0 ms  
+Round 9
+3 | U | 0 ms  
+1 | L | 0 ms  
+4 | R | 0 ms  (dead)
+2 | U | 0 ms  
+Round 10
+3 | U | 0 ms  
+1 | L | 0 ms  
+4 | R | 0 ms  (dead)
+2 | D | 0 ms  
+Round 11
+3 | U | 0 ms  
+1 | L | 0 ms  
+4 | R | 0 ms  (dead)
+2 | D | 0 ms  (dead)
+Round 12
+3 | U | 3 ms  
+1 | L | 0 ms  
+4 | R | 0 ms  (dead)
+2 | D | 0 ms  (dead)
+Round 13
+3 | U | 0 ms  
+1 | U | 1 ms  
+4 | R | 0 ms  (dead)
+2 | D | 0 ms  (dead)
+Round 14
+3 | U | 0 ms  
+1 | R | 0 ms  
+4 | R | 1 ms  (dead)
+2 | D | 0 ms  (dead)
+Round 15
+3 | R | 0 ms  
+1 | R | 0 ms  
+4 | R | 0 ms  (dead)
+2 | D | 0 ms  (dead)
+Round 16
+3 | U | 0 ms  
+1 | R | 0 ms  
+4 | R | 0 ms  (dead)
+2 | D | 0 ms  (dead)
+Round 17
+3 | U | 0 ms  
+1 | R | 0 ms  
+4 | R | 0 ms  (dead)
+2 | D | 0 ms  (dead)
+Round 18
+3 | U | 0 ms  
+1 | R | 0 ms  
+4 | R | 0 ms  (dead)
+2 | D | 0 ms  (dead)
+Round 19
+3 | U | 0 ms  
+1 | U | 0 ms  
+4 | R | 0 ms  (dead)
+2 | D | 0 ms  (dead)
+Round 20
+3 | U | 0 ms  
+1 | L | 0 ms  
+4 | R | 0 ms  (dead)
+2 | D | 0 ms  (dead)
+Round 21
+3 | U | 0 ms  
+1 | L | 0 ms  
+4 | R | 0 ms  (dead)
+2 | D | 0 ms  (dead)
+Round 22
+3 | U | 0 ms  
+1 | L | 0 ms  
+4 | R | 0 ms  (dead)
+2 | D | 0 ms  (dead)
+Round 23
+3 | R | 0 ms  
+1 | L | 0 ms  
+4 | R | 0 ms  (dead)
+2 | D | 0 ms  (dead)
+Round 24
+3 | R | 0 ms  
+1 | U | 0 ms  
+4 | R | 0 ms  (dead)
+2 | D | 0 ms  (dead)
+Round 25
+3 | D | 0 ms  
+1 | R | 0 ms  
+4 | R | 0 ms  (dead)
+2 | D | 0 ms  (dead)
+Round 26
+3 | R | 0 ms  
+1 | R | 0 ms  
+4 | R | 0 ms  (dead)
+2 | D | 0 ms  (dead)
+Round 27
+3 | R | 0 ms  
+1 | R | 0 ms  
+4 | R | 0 ms  (dead)
+2 | D | 0 ms  (dead)
+Round 28
+3 | R | 0 ms  
+1 | R | 0 ms  
+4 | R | 0 ms  (dead)
+2 | D | 0 ms  (dead)
+Round 29
+3 | R | 0 ms  
+1 | R | 0 ms  
+4 | R | 0 ms  (dead)
+2 | D | 0 ms  (dead)
+Round 30
+3 | R | 0 ms  
+1 | R | 0 ms  (dead)
+4 | R | 0 ms  (dead)
+2 | D | 0 ms  (dead)
+Round 31
+3 | R | 0 ms  
+1 | R | 0 ms  (dead)
+4 | R | 0 ms  (dead)
+2 | D | 0 ms  (dead)
+Round 32
+3 | D | 0 ms  
+1 | R | 0 ms  (dead)
+4 | R | 0 ms  (dead)
+2 | D | 0 ms  (dead)
+Round 33
+3 | L | 0 ms  
+1 | R | 0 ms  (dead)
+4 | R | 0 ms  (dead)
+2 | D | 0 ms  (dead)
+Round 34
+3 | L | 0 ms  
+1 | R | 0 ms  (dead)
+4 | R | 0 ms  (dead)
+2 | D | 0 ms  (dead)
+Round 35
+3 | L | 0 ms  
+1 | R | 52 ms  (dead)
+4 | R | 2 ms  (dead)
+2 | D | 0 ms  (dead)
+Round 36
+3 | L | 0 ms  
+1 | R | 5 ms  (dead)
+4 | R | 0 ms  (dead)
+2 | D | 0 ms  (dead)
+Round 37
+3 | L | 0 ms  
+1 | R | 0 ms  (dead)
+4 | R | 0 ms  (dead)
+2 | D | 0 ms  (dead)
+Round 38
+3 | L | 0 ms  
+1 | R | 0 ms  (dead)
+4 | R | 0 ms  (dead)
+2 | D | 0 ms  (dead)
+Round 39
+3 | L | 0 ms  
+1 | R | 0 ms  (dead)
+4 | R | 0 ms  (dead)
+2 | D | 0 ms  (dead)
+Round 40
+3 | U | 0 ms  
+1 | R | 0 ms  (dead)
+4 | R | 0 ms  (dead)
+2 | D | 0 ms  (dead)
+Round 41
+3 | D | 0 ms  
+1 | R | 0 ms  (dead)
+4 | R | 0 ms  (dead)
+2 | D | 0 ms  (dead)
