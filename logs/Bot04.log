@@ -1,1 +1,792 @@
 listening on port 9604
+Get a BEER
+Empty LEFT: 4
+Empty RIGHT: 4
+Empty UP: 4
+Empty DOWN: 4
+Sorted: [4, 4, 4, 4]
+Beer goes LEFT
+Get a BEER
+Empty LEFT: 3
+Empty RIGHT: 0
+Empty UP: 4
+Empty DOWN: 4
+Sorted: [3, 0, 4, 4]
+Beer goes UP
+Get a BEER
+Empty LEFT: 3
+Empty RIGHT: 5
+Empty UP: 0
+Empty DOWN: 3
+Sorted: [3, 5, 0, 3]
+Beer goes RIGHT
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 4
+Empty UP: 0
+Empty DOWN: 3
+Sorted: [0, 4, 0, 3]
+Beer goes RIGHT
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 3
+Empty UP: 5
+Empty DOWN: 3
+Sorted: [0, 3, 5, 3]
+Beer goes UP
+Get a BEER
+Empty LEFT: 5
+Empty RIGHT: 3
+Empty UP: 0
+Empty DOWN: 2
+Sorted: [5, 3, 0, 2]
+Beer goes LEFT
+Get a BEER
+Empty LEFT: 4
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 2
+Sorted: [4, 0, 0, 2]
+Beer goes LEFT
+Get a BEER
+Empty LEFT: 3
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 2
+Sorted: [3, 0, 0, 2]
+Beer goes LEFT
+Get a BEER
+Empty LEFT: 2
+Empty RIGHT: 0
+Empty UP: 6
+Empty DOWN: 1
+Sorted: [2, 0, 6, 1]
+Beer goes UP
+Get a BEER
+Empty LEFT: 2
+Empty RIGHT: 2
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [2, 2, 0, 0]
+Beer goes RIGHT
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 4
+Empty RIGHT: 4
+Empty UP: 4
+Empty DOWN: 4
+Sorted: [4, 4, 4, 4]
+Beer goes LEFT
+Get a BEER
+Empty LEFT: 3
+Empty RIGHT: 0
+Empty UP: 9
+Empty DOWN: 9
+Sorted: [3, 0, 9, 9]
+Beer goes UP
+Get a BEER
+Empty LEFT: 9
+Empty RIGHT: 9
+Empty UP: 0
+Empty DOWN: 8
+Sorted: [9, 9, 0, 8]
+Beer goes LEFT
+Get a BEER
+Empty LEFT: 8
+Empty RIGHT: 0
+Empty UP: 9
+Empty DOWN: 9
+Sorted: [8, 0, 9, 9]
+Beer goes UP
+Get a BEER
+Empty LEFT: 9
+Empty RIGHT: 9
+Empty UP: 0
+Empty DOWN: 8
+Sorted: [9, 9, 0, 8]
+Beer goes LEFT
+Get a BEER
+Empty LEFT: 8
+Empty RIGHT: 0
+Empty UP: 9
+Empty DOWN: 9
+Sorted: [8, 0, 9, 9]
+Beer goes UP
+Get a BEER
+Empty LEFT: 9
+Empty RIGHT: 9
+Empty UP: 0
+Empty DOWN: 8
+Sorted: [9, 9, 0, 8]
+Beer goes LEFT
+Get a BEER
+Empty LEFT: 8
+Empty RIGHT: 0
+Empty UP: 1
+Empty DOWN: 5
+Sorted: [8, 0, 1, 5]
+Beer goes LEFT
+Get a BEER
+Empty LEFT: 7
+Empty RIGHT: 0
+Empty UP: 2
+Empty DOWN: 1
+Sorted: [7, 0, 2, 1]
+Beer goes LEFT
+Get a BEER
+Empty LEFT: 6
+Empty RIGHT: 0
+Empty UP: 2
+Empty DOWN: 6
+Sorted: [6, 0, 2, 6]
+Beer goes LEFT
+Get a BEER
+Empty LEFT: 5
+Empty RIGHT: 0
+Empty UP: 2
+Empty DOWN: 6
+Sorted: [5, 0, 2, 6]
+Beer goes DOWN
+Get a BEER
+Empty LEFT: 4
+Empty RIGHT: 3
+Empty UP: 1
+Empty DOWN: 0
+Sorted: [4, 3, 1, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 2
+Empty UP: 1
+Empty DOWN: 0
+Sorted: [0, 2, 1, 0]
+Beer goes RIGHT
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 1
+Empty UP: 1
+Empty DOWN: 0
+Sorted: [0, 1, 1, 0]
+Beer goes RIGHT
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 4
+Empty RIGHT: 4
+Empty UP: 4
+Empty DOWN: 4
+Sorted: [4, 4, 4, 4]
+Beer goes LEFT
+Get a BEER
+Empty LEFT: 3
+Empty RIGHT: 0
+Empty UP: 4
+Empty DOWN: 4
+Sorted: [3, 0, 4, 4]
+Beer goes UP
+Get a BEER
+Empty LEFT: 3
+Empty RIGHT: 5
+Empty UP: 0
+Empty DOWN: 3
+Sorted: [3, 5, 0, 3]
+Beer goes RIGHT
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 4
+Empty UP: 0
+Empty DOWN: 3
+Sorted: [0, 4, 0, 3]
+Beer goes RIGHT
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 3
+Empty UP: 5
+Empty DOWN: 3
+Sorted: [0, 3, 5, 3]
+Beer goes UP
+Get a BEER
+Empty LEFT: 5
+Empty RIGHT: 3
+Empty UP: 0
+Empty DOWN: 2
+Sorted: [5, 3, 0, 2]
+Beer goes LEFT
+Get a BEER
+Empty LEFT: 4
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 2
+Sorted: [4, 0, 0, 2]
+Beer goes LEFT
+Get a BEER
+Empty LEFT: 3
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 2
+Sorted: [3, 0, 0, 2]
+Beer goes LEFT
+Get a BEER
+Empty LEFT: 2
+Empty RIGHT: 0
+Empty UP: 6
+Empty DOWN: 1
+Sorted: [2, 0, 6, 1]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 1
+Sorted: [0, 0, 0, 1]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 1
+Sorted: [0, 0, 0, 1]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Beer should not be here
