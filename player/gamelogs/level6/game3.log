@@ -1,0 +1,150 @@
+Round 1
+4 | R | 0 ms  
+3 | U | 0 ms  
+1 | R | 0 ms  
+2 | R | 0 ms  
+Round 2
+4 | D | 0 ms  
+3 | R | 0 ms  
+1 | R | 0 ms  
+2 | R | 0 ms  
+Round 3
+4 | R | 0 ms  
+3 | R | 0 ms  
+1 | R | 1 ms  
+2 | R | 0 ms  
+Round 4
+4 | R | 0 ms  
+3 | R | 0 ms  
+1 | R | 0 ms  
+2 | U | 0 ms  
+Round 5
+4 | R | 0 ms  
+3 | U | 0 ms  
+1 | U | 14 ms  
+2 | L | 0 ms  
+Round 6
+4 | R | 0 ms  
+3 | U | 0 ms  
+1 | L | 0 ms  
+2 | L | 0 ms  
+Round 7
+4 | D | 0 ms  
+3 | L | 0 ms  
+1 | L | 0 ms  
+2 | U | 0 ms  
+Round 8
+4 | L | 0 ms  
+3 | L | 0 ms  
+1 | L | 0 ms  
+2 | R | 0 ms  
+Round 9
+4 | L | 0 ms  
+3 | L | 0 ms  
+1 | L | 0 ms  
+2 | U | 0 ms  
+Round 10
+4 | L | 0 ms  
+3 | L | 0 ms  
+1 | L | 0 ms  
+2 | U | 0 ms  
+Round 11
+4 | L | 1 ms  
+3 | D | 0 ms  
+1 | U | 0 ms  
+2 | L | 0 ms  
+Round 12
+4 | L | 0 ms  
+3 | L | 0 ms  
+1 | R | 0 ms  
+2 | D | 0 ms  
+Round 13
+4 | L | 1 ms  
+3 | U | 0 ms  
+1 | R | 0 ms  
+2 | D | 0 ms  
+Round 14
+4 | U | 0 ms  
+3 | L | 0 ms  
+1 | R | 0 ms  
+2 | L | 0 ms  (dead)
+Round 15
+4 | U | 0 ms  
+3 | D | 5 ms  
+1 | R | 3 ms  
+2 | L | 0 ms  (dead)
+Round 16
+4 | U | 6 ms  
+3 | L | 0 ms  
+1 | R | 0 ms  
+2 | L | 0 ms  (dead)
+Round 17
+4 | R | 0 ms  
+3 | U | 0 ms  
+1 | R | 0 ms  
+2 | L | 0 ms  (dead)
+Round 18
+4 | R | 0 ms  
+3 | L | 1 ms  
+1 | D | 0 ms  
+2 | D | 0 ms  (dead)
+Round 19
+4 | R | 0 ms  
+3 | L | 0 ms  
+1 | L | 0 ms  
+2 | D | 0 ms  (dead)
+Round 20
+4 | R | 0 ms  
+3 | U | 0 ms  
+1 | L | 0 ms  (dead)
+2 | D | 0 ms  (dead)
+Round 21
+4 | R | 0 ms  
+3 | L | 0 ms  
+1 | L | 0 ms  (dead)
+2 | D | 0 ms  (dead)
+Round 22
+4 | D | 0 ms  
+3 | L | 0 ms  
+1 | L | 0 ms  (dead)
+2 | D | 0 ms  (dead)
+Round 23
+4 | L | 0 ms  
+3 | L | 0 ms  
+1 | L | 0 ms  (dead)
+2 | D | 0 ms  (dead)
+Round 24
+4 | L | 0 ms  
+3 | L | 0 ms  
+1 | L | 0 ms  (dead)
+2 | D | 0 ms  (dead)
+Round 25
+4 | R | 0 ms  
+3 | L | 0 ms  
+1 | L | 1 ms  (dead)
+2 | D | 0 ms  (dead)
+Round 26
+4 | R | 0 ms  (dead)
+3 | L | 0 ms  
+1 | L | 0 ms  (dead)
+2 | D | 0 ms  (dead)
+Round 27
+4 | R | 1 ms  (dead)
+3 | L | 1 ms  
+1 | L | 0 ms  (dead)
+2 | D | 0 ms  (dead)
+Round 28
+4 | R | 0 ms  (dead)
+3 | L | 0 ms  
+1 | L | 0 ms  (dead)
+2 | D | 0 ms  (dead)
+Round 29
+4 | R | 0 ms  (dead)
+3 | L | 1 ms  
+1 | L | 0 ms  (dead)
+2 | D | 0 ms  (dead)
+Round 30
+4 | R | 0 ms  (dead)
+3 | D | 0 ms  
+1 | L | 0 ms  (dead)
+2 | D | 0 ms  (dead)
