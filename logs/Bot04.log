@@ -4,618 +4,277 @@ Empty LEFT: 4
 Empty RIGHT: 4
 Empty UP: 4
 Empty DOWN: 4
-Sorted: [4, 4, 4, 4]
+Sorted: [5, 5, 5, 5]
 Best move 3 is  LEFT
-Sorted: [4, 4, 4, 4]
-Best move 3 is  LEFT
-Get a BEER
-Empty LEFT: 3
-Empty RIGHT: 0
-Empty UP: 4
-Empty DOWN: 4
-Sorted: [0, 3, 4, 4]
-Best move 3 is  UP
-Sorted: [0, 3, 4, 4]
-Best move 3 is  UP
-Get a BEER
-Empty LEFT: 3
-Empty RIGHT: 5
-Empty UP: 0
-Empty DOWN: 3
-Sorted: [0, 3, 3, 5]
-Best move 3 is  RIGHT
-Sorted: [0, 3, 3, 5]
-Best move 3 is  RIGHT
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 4
-Empty UP: 0
-Empty DOWN: 3
-Sorted: [0, 0, 3, 3]
-Best move 3 is  RIGHT
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 3
-Empty UP: 4
-Empty DOWN: 3
-Sorted: [0, 3, 3, 4]
-Best move 3 is  UP
-Get a BEER
-Empty LEFT: 5
-Empty RIGHT: 3
-Empty UP: 0
-Empty DOWN: 1
-Sorted: [0, 1, 3, 5]
-Best move 3 is  LEFT
-Sorted: [0, 1, 3, 5]
-Best move 3 is  LEFT
-Get a BEER
-Empty LEFT: 4
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 2
-Sorted: [0, 0, 2, 4]
-Best move 3 is  LEFT
-Sorted: [0, 0, 2, 3]
-Best move 3 is  LEFT
-Get a BEER
-Empty LEFT: 3
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
-Sorted: [0, 0, 0, 3]
-Best move 3 is  LEFT
-Sorted: [0, 0, 0, 3]
-Best move 3 is  LEFT
-Get a BEER
-Empty LEFT: 2
-Empty RIGHT: 0
-Empty UP: 8
-Empty DOWN: 0
-Sorted: [0, 0, 2, 8]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
-Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
-Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
-Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
-Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
-Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
-Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
-Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
-Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
-Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
-Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
-Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
-Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
-Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
-Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
-Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
-Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
-Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
-Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
-Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
-Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
-Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
-Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
-Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
-Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
-Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
-Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
-Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
-Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
-Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
-Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
-Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
-Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
-Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
-Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
-Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
-Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
-Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
-Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
-Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
-Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
-Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
-Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 4
-Empty RIGHT: 4
-Empty UP: 4
-Empty DOWN: 4
-Sorted: [4, 4, 4, 4]
-Best move 3 is  LEFT
-Sorted: [4, 4, 4, 4]
+Sorted: [5, 5, 5, 5]
 Best move 3 is  LEFT
 Get a BEER
 Empty LEFT: 3
 Empty RIGHT: 0
 Empty UP: 9
 Empty DOWN: 9
-Sorted: [0, 3, 9, 9]
+Sorted: [0, 4, 10, 10]
 Best move 3 is  UP
-Sorted: [0, 3, 9, 9]
-Best move 3 is  UP
+Sorted: [0, 4, 9, 10]
+Best move 3 is  DOWN
 Get a BEER
 Empty LEFT: 9
 Empty RIGHT: 9
-Empty UP: 0
-Empty DOWN: 8
-Sorted: [0, 8, 9, 9]
+Empty UP: 8
+Empty DOWN: 0
+Sorted: [0, 9, 10, 10]
 Best move 3 is  LEFT
-Sorted: [0, 8, 9, 9]
+Sorted: [0, 9, 10, 10]
 Best move 3 is  LEFT
 Get a BEER
 Empty LEFT: 8
 Empty RIGHT: 0
 Empty UP: 9
 Empty DOWN: 9
-Sorted: [0, 8, 9, 9]
+Sorted: [0, 9, 10, 10]
 Best move 3 is  UP
+Sorted: [0, 9, 9, 10]
+Best move 3 is  DOWN
 Get a BEER
-Empty LEFT: 2
-Empty RIGHT: 6
-Empty UP: 0
-Empty DOWN: 8
-Sorted: [0, 2, 5, 8]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 5
-Empty UP: 0
-Empty DOWN: 7
-Sorted: [0, 0, 4, 7]
+Empty LEFT: 9
+Empty RIGHT: 9
+Empty UP: 8
+Empty DOWN: 0
+Sorted: [0, 9, 10, 10]
+Best move 3 is  RIGHT
+Sorted: [0, 9, 9, 10]
 Get a BEER
 Empty LEFT: 0
-Empty RIGHT: 4
-Empty UP: 1
-Empty DOWN: 2
-Sorted: [0, 1, 2, 3]
+Empty RIGHT: 8
+Empty UP: 7
+Empty DOWN: 0
+Sorted: [0, 0, 8, 9]
+Best move 3 is  RIGHT
+Sorted: [0, 0, 8, 8]
 Best move 3 is  RIGHT
 Get a BEER
 Empty LEFT: 0
-Empty RIGHT: 3
-Empty UP: 0
-Empty DOWN: 5
-Sorted: [0, 0, 2, 5]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 2
-Empty UP: 0
-Empty DOWN: 5
-Sorted: [0, 0, 2, 5]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 5
-Sorted: [0, 0, 0, 5]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
-Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
-Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
-Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
-Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
-Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
-Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
-Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
-Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
-Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
-Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
-Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
-Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
-Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
-Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
-Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
-Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
-Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
-Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
-Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
-Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
-Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
-Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
-Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 4
-Empty RIGHT: 4
-Empty UP: 4
-Empty DOWN: 4
-Sorted: [4, 4, 4, 4]
-Best move 3 is  LEFT
-Sorted: [4, 4, 4, 4]
-Best move 3 is  LEFT
-Get a BEER
-Empty LEFT: 3
-Empty RIGHT: 0
-Empty UP: 9
-Empty DOWN: 9
-Sorted: [0, 3, 9, 9]
-Best move 3 is  UP
-Sorted: [0, 3, 9, 9]
-Best move 3 is  UP
-Get a BEER
-Empty LEFT: 3
-Empty RIGHT: 5
-Empty UP: 0
-Empty DOWN: 8
-Sorted: [0, 3, 5, 8]
-Sorted: [0, 3, 4, 8]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 4
-Empty UP: 0
-Empty DOWN: 3
-Sorted: [0, 0, 3, 3]
-Best move 3 is  RIGHT
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 3
-Empty UP: 5
-Empty DOWN: 3
-Sorted: [0, 2, 3, 5]
-Best move 3 is  UP
-Get a BEER
-Empty LEFT: 2
-Empty RIGHT: 3
-Empty UP: 0
-Empty DOWN: 2
-Sorted: [0, 2, 2, 3]
-Best move 3 is  RIGHT
-Sorted: [0, 2, 2, 3]
-Best move 3 is  RIGHT
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 2
-Empty UP: 6
-Empty DOWN: 2
-Sorted: [0, 2, 2, 6]
-Best move 3 is  UP
-Get a BEER
-Empty LEFT: 2
-Empty RIGHT: 2
-Empty UP: 0
+Empty RIGHT: 7
+Empty UP: 2
 Empty DOWN: 1
-Sorted: [0, 1, 2, 2]
-Best move 3 is  LEFT
-Sorted: [0, 1, 2, 2]
-Best move 3 is  LEFT
+Sorted: [0, 1, 3, 8]
+Best move 3 is  RIGHT
+Sorted: [0, 1, 3, 7]
+Best move 3 is  RIGHT
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 6
+Sorted: [0, 0, 0, 7]
+Sorted: [0, 0, 0, 7]
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 6
+Sorted: [0, 0, 0, 7]
+Sorted: [0, 0, 0, 7]
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 6
+Sorted: [0, 0, 0, 7]
+Sorted: [0, 0, 0, 7]
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 6
+Sorted: [0, 0, 0, 7]
+Sorted: [0, 0, 0, 7]
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 3
+Sorted: [0, 0, 0, 4]
+Sorted: [0, 0, 0, 4]
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 3
+Sorted: [0, 0, 0, 4]
+Sorted: [0, 0, 0, 4]
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 3
+Sorted: [0, 0, 0, 4]
+Sorted: [0, 0, 0, 4]
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 3
+Sorted: [0, 0, 0, 4]
+Sorted: [0, 0, 0, 4]
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 3
+Sorted: [0, 0, 0, 4]
+Sorted: [0, 0, 0, 4]
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 3
+Sorted: [0, 0, 0, 4]
+Sorted: [0, 0, 0, 4]
 Get a BEER
 Empty LEFT: 0
 Empty RIGHT: 0
 Empty UP: 0
 Empty DOWN: 1
 Sorted: [0, 0, 0, 1]
+Sorted: [0, 0, 0, 1]
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 1
+Sorted: [0, 0, 0, 1]
+Sorted: [0, 0, 0, 1]
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 1
+Sorted: [0, 0, 0, 1]
+Sorted: [0, 0, 0, 1]
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 1
+Sorted: [0, 0, 0, 1]
+Sorted: [0, 0, 0, 1]
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 1
+Sorted: [0, 0, 0, 1]
+Sorted: [0, 0, 0, 1]
+Get a BEER
+Empty LEFT: 4
+Empty RIGHT: 4
+Empty UP: 4
+Empty DOWN: 4
+Sorted: [5, 5, 5, 5]
+Best move 3 is  LEFT
+Sorted: [5, 5, 5, 5]
+Best move 3 is  LEFT
+Get a BEER
+Empty LEFT: 3
+Empty RIGHT: 0
+Empty UP: 4
+Empty DOWN: 4
+Sorted: [0, 4, 5, 5]
+Best move 3 is  UP
+Sorted: [0, 4, 5, 5]
+Best move 3 is  UP
+Get a BEER
+Empty LEFT: 3
+Empty RIGHT: 4
+Empty UP: 0
+Empty DOWN: 3
+Sorted: [0, 4, 4, 5]
+Best move 3 is  RIGHT
+Sorted: [0, 4, 4, 5]
+Best move 3 is  RIGHT
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 3
+Empty UP: 0
+Empty DOWN: 3
+Sorted: [0, 0, 4, 4]
+Best move 3 is  RIGHT
+Sorted: [0, 0, 4, 4]
+Best move 3 is  RIGHT
 Get a BEER
 Empty LEFT: 0
 Empty RIGHT: 2
+Empty UP: 9
+Empty DOWN: 9
+Sorted: [0, 3, 10, 10]
+Best move 3 is  UP
+Sorted: [0, 3, 9, 10]
+Best move 3 is  DOWN
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 3
+Empty UP: 8
+Empty DOWN: 0
+Sorted: [0, 0, 4, 9]
+Sorted: [0, 0, 4, 9]
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 2
+Empty UP: 6
+Empty DOWN: 2
+Sorted: [0, 3, 3, 7]
+Best move 3 is  UP
+Sorted: [0, 3, 3, 6]
+Best move 3 is  UP
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 1
 Empty UP: 0
 Empty DOWN: 1
 Sorted: [0, 0, 1, 2]
+Sorted: [0, 0, 1, 2]
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 4
+Empty DOWN: 1
+Sorted: [0, 0, 1, 5]
+Best move 3 is  UP
+Sorted: [0, 0, 1, 4]
+Best move 3 is  UP
+Get a BEER
+Empty LEFT: 8
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 8]
+Sorted: [0, 0, 0, 8]
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 8
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 9]
+Best move 3 is  RIGHT
+Sorted: [0, 0, 0, 8]
+Best move 3 is  RIGHT
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 3
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 4]
+Best move 3 is  RIGHT
+Sorted: [0, 0, 0, 3]
 Best move 3 is  RIGHT
 Get a BEER
 Empty LEFT: 0
 Empty RIGHT: 2
 Empty UP: 0
 Empty DOWN: 0
+Sorted: [0, 0, 0, 3]
+Best move 3 is  RIGHT
 Sorted: [0, 0, 0, 2]
 Best move 3 is  RIGHT
 Get a BEER
@@ -623,6 +282,8 @@ Empty LEFT: 0
 Empty RIGHT: 2
 Empty UP: 0
 Empty DOWN: 0
+Sorted: [0, 0, 0, 3]
+Best move 3 is  RIGHT
 Sorted: [0, 0, 0, 2]
 Best move 3 is  RIGHT
 Get a BEER
@@ -630,6 +291,8 @@ Empty LEFT: 0
 Empty RIGHT: 2
 Empty UP: 0
 Empty DOWN: 0
+Sorted: [0, 0, 0, 3]
+Best move 3 is  RIGHT
 Sorted: [0, 0, 0, 2]
 Best move 3 is  RIGHT
 Get a BEER
@@ -637,7 +300,9 @@ Empty LEFT: 0
 Empty RIGHT: 1
 Empty UP: 0
 Empty DOWN: 0
-Sorted: [0, 0, 0, 1]
+Sorted: [0, 0, 0, 2]
+Best move 3 is  RIGHT
+Sorted: [0, 0, 0, 2]
 Best move 3 is  RIGHT
 Get a BEER
 Empty LEFT: 0
@@ -645,11 +310,6 @@ Empty RIGHT: 0
 Empty UP: 0
 Empty DOWN: 0
 Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
 Sorted: [0, 0, 0, 0]
 Get a BEER
 Empty LEFT: 0
@@ -657,11 +317,6 @@ Empty RIGHT: 0
 Empty UP: 0
 Empty DOWN: 0
 Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
 Sorted: [0, 0, 0, 0]
 Get a BEER
 Empty LEFT: 0
@@ -669,11 +324,6 @@ Empty RIGHT: 0
 Empty UP: 0
 Empty DOWN: 0
 Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
 Sorted: [0, 0, 0, 0]
 Get a BEER
 Empty LEFT: 0
@@ -681,11 +331,6 @@ Empty RIGHT: 0
 Empty UP: 0
 Empty DOWN: 0
 Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
 Sorted: [0, 0, 0, 0]
 Get a BEER
 Empty LEFT: 0
@@ -693,11 +338,6 @@ Empty RIGHT: 0
 Empty UP: 0
 Empty DOWN: 0
 Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
 Sorted: [0, 0, 0, 0]
 Get a BEER
 Empty LEFT: 0
@@ -705,11 +345,6 @@ Empty RIGHT: 0
 Empty UP: 0
 Empty DOWN: 0
 Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
 Sorted: [0, 0, 0, 0]
 Get a BEER
 Empty LEFT: 0
@@ -717,11 +352,6 @@ Empty RIGHT: 0
 Empty UP: 0
 Empty DOWN: 0
 Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
 Sorted: [0, 0, 0, 0]
 Get a BEER
 Empty LEFT: 0
@@ -729,11 +359,6 @@ Empty RIGHT: 0
 Empty UP: 0
 Empty DOWN: 0
 Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
 Sorted: [0, 0, 0, 0]
 Get a BEER
 Empty LEFT: 0
@@ -741,15 +366,282 @@ Empty RIGHT: 0
 Empty UP: 0
 Empty DOWN: 0
 Sorted: [0, 0, 0, 0]
-Get a BEER
-Empty LEFT: 0
-Empty RIGHT: 0
-Empty UP: 0
-Empty DOWN: 0
 Sorted: [0, 0, 0, 0]
 Get a BEER
 Empty LEFT: 0
 Empty RIGHT: 0
 Empty UP: 0
 Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Sorted: [0, 0, 0, 0]
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Sorted: [0, 0, 0, 0]
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Sorted: [0, 0, 0, 0]
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Sorted: [0, 0, 0, 0]
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Sorted: [0, 0, 0, 0]
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Sorted: [0, 0, 0, 0]
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Sorted: [0, 0, 0, 0]
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Sorted: [0, 0, 0, 0]
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
+Sorted: [0, 0, 0, 0]
+Get a BEER
+Empty LEFT: 4
+Empty RIGHT: 4
+Empty UP: 4
+Empty DOWN: 4
+Sorted: [5, 5, 5, 5]
+Best move 3 is  LEFT
+Sorted: [4, 5, 5, 5]
+Best move 3 is  RIGHT
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 2
+Empty UP: 9
+Empty DOWN: 9
+Sorted: [0, 3, 10, 10]
+Best move 3 is  UP
+Sorted: [0, 3, 9, 10]
+Best move 3 is  DOWN
+Get a BEER
+Empty LEFT: 9
+Empty RIGHT: 9
+Empty UP: 8
+Empty DOWN: 0
+Sorted: [0, 9, 10, 10]
+Best move 3 is  LEFT
+Sorted: [0, 9, 9, 10]
+Best move 3 is  RIGHT
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 8
+Empty UP: 8
+Empty DOWN: 0
+Sorted: [0, 0, 9, 9]
+Sorted: [0, 0, 9, 9]
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 7
+Empty UP: 8
+Empty DOWN: 0
+Sorted: [0, 0, 8, 9]
+Sorted: [0, 0, 7, 9]
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 6
+Empty UP: 5
+Empty DOWN: 0
+Sorted: [0, 0, 6, 7]
+Best move 3 is  RIGHT
+Sorted: [0, 0, 6, 7]
+Best move 3 is  RIGHT
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 5
+Empty UP: 3
+Empty DOWN: 0
+Sorted: [0, 0, 4, 6]
+Best move 3 is  RIGHT
+Sorted: [0, 0, 4, 6]
+Best move 3 is  RIGHT
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 4
+Empty UP: 9
+Empty DOWN: 9
+Sorted: [0, 5, 10, 10]
+Best move 3 is  UP
+Sorted: [0, 5, 10, 10]
+Best move 3 is  UP
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 3
+Empty UP: 0
+Empty DOWN: 8
+Sorted: [0, 0, 4, 9]
+Sorted: [0, 0, 3, 9]
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 2
+Empty UP: 8
+Empty DOWN: 0
+Sorted: [0, 0, 3, 9]
+Sorted: [0, 0, 3, 9]
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 1
+Empty UP: 7
+Empty DOWN: 0
+Sorted: [0, 0, 2, 8]
+Sorted: [0, 0, 2, 8]
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 7
+Empty DOWN: 0
+Sorted: [0, 0, 0, 8]
+Sorted: [0, 0, 0, 8]
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 4
+Empty DOWN: 0
+Sorted: [0, 0, 0, 5]
+Sorted: [0, 0, 0, 5]
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 3
+Empty DOWN: 0
+Sorted: [0, 0, 0, 4]
+Sorted: [0, 0, 0, 4]
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 3
+Empty DOWN: 0
+Sorted: [0, 0, 0, 4]
+Sorted: [0, 0, 0, 4]
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 3
+Empty DOWN: 0
+Sorted: [0, 0, 0, 4]
+Sorted: [0, 0, 0, 4]
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 3
+Empty DOWN: 0
+Sorted: [0, 0, 0, 4]
+Sorted: [0, 0, 0, 4]
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 3
+Empty DOWN: 0
+Sorted: [0, 0, 0, 4]
+Sorted: [0, 0, 0, 4]
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 2
+Empty DOWN: 0
+Sorted: [0, 0, 0, 3]
+Sorted: [0, 0, 0, 3]
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 2
+Empty DOWN: 0
+Sorted: [0, 0, 0, 3]
+Sorted: [0, 0, 0, 3]
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 2
+Empty DOWN: 0
+Sorted: [0, 0, 0, 3]
+Sorted: [0, 0, 0, 3]
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 2
+Empty DOWN: 0
+Sorted: [0, 0, 0, 3]
+Sorted: [0, 0, 0, 3]
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 2
+Empty DOWN: 0
+Sorted: [0, 0, 0, 3]
+Sorted: [0, 0, 0, 3]
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 1
+Empty DOWN: 0
+Sorted: [0, 0, 0, 1]
+Sorted: [0, 0, 0, 1]
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 1
+Empty DOWN: 0
+Sorted: [0, 0, 0, 1]
+Sorted: [0, 0, 0, 1]
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 1
+Empty DOWN: 0
+Sorted: [0, 0, 0, 1]
+Sorted: [0, 0, 0, 1]
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 1
+Empty DOWN: 0
+Sorted: [0, 0, 0, 1]
+Sorted: [0, 0, 0, 1]
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 1
+Empty DOWN: 0
+Sorted: [0, 0, 0, 1]
+Sorted: [0, 0, 0, 1]
+Get a BEER
+Empty LEFT: 0
+Empty RIGHT: 0
+Empty UP: 0
+Empty DOWN: 0
+Sorted: [0, 0, 0, 0]
 Sorted: [0, 0, 0, 0]
